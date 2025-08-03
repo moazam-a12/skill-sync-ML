@@ -1,0 +1,1137 @@
+Intern ID,Top Cluster,Top Cluster Role,Job Similarity Score,Top Course,Course Similarity Score
+intern_0001,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5494797591840012,IBM Data Science,0.7537103177836462
+intern_0002,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.49439906285272933,IBM DevOps and Software Engineering,0.8186725056775757
+intern_0003,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.40952241550808477,IBM Data Engineering,0.8133800200991955
+intern_0004,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6866304031142401,IBM DevOps and Software Engineering,0.7913443525304686
+intern_0005,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6738031373006005,Tools for Data Science,0.9299372936074943
+intern_0006,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5535057752236398,AI For Everyone,0.8158068374280801
+intern_0007,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.811353268215331,Tools for Data Science,0.8030004260752542
+intern_0008,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5949255547627883,IBM & Darden Digital Strategy,0.8413489276410633
+intern_0009,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6544771155516851,Google Digital Marketing & E-commerce,0.8355180358565455
+intern_0010,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6124875263757674,Google IT Support,0.7645536032544538
+intern_0011,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6101942590972634,IBM DevOps and Software Engineering,0.9418634484111706
+intern_0012,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.44352555975018315,IBM Applied AI,0.8968135474771
+intern_0013,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7743384040907229,Tools for Data Science,0.8646828166310119
+intern_0014,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7632077817625111,Fundamentos de la ciberseguridad,0.9168359694420263
+intern_0015,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6568076255736092,Go Beyond the Numbers: Translate Data into Insights,0.8408879436577396
+intern_0016,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6404394086395919,IBM DevOps and Software Engineering,0.8575405978366046
+intern_0017,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5520153932104765,IBM DevOps and Software Engineering,0.9998085681202578
+intern_0018,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7146782567533455,Cloud Application Development Foundations,0.8873514167258142
+intern_0019,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.44423759327240914,"HTML, CSS, and Javascript for Web Developers",0.9742058016638843
+intern_0020,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7295792264945872,Tools for Data Science,0.8693393342824207
+intern_0021,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5260617568779876,Project Management & Other Tools for Career Development,0.883906107624738
+intern_0022,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5842917792523454,IBM DevOps and Software Engineering,0.973863169850007
+intern_0023,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6475934783810698,IBM Data Science,0.8381805876589405
+intern_0024,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6467628125773022,IBM DevOps and Software Engineering,0.86111689786128
+intern_0025,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.552015393210477,IBM DevOps and Software Engineering,0.9998085681202579
+intern_0026,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.4258077884660561,Robotics,0.9520066081461178
+intern_0027,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7536165203632956,Foundations of Cybersecurity,0.8863449745406123
+intern_0028,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7304627129240964,Google Data Analytics Capstone: Complete a Case Study,0.9403843176609955
+intern_0029,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5264246145279766,"HTML, CSS, and Javascript for Web Developers",0.9354817610166292
+intern_0030,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.577852398211836,IBM DevOps and Software Engineering,0.8553319930096834
+intern_0031,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7096946287866783,IBM Data Science,0.8104714362482108
+intern_0032,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7004582519949303,Google Data Analytics Capstone: Complete a Case Study,0.7866511950198963
+intern_0033,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5546259367661427,Project Management & Other Tools for Career Development,0.9031421207759182
+intern_0034,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6059108226127933,Python Project for Data Science,0.8924978399453651
+intern_0035,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5606556353440669,IBM & Darden Digital Strategy,0.818419819665666
+intern_0036,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5288551636164494,Cloud Application Development Foundations,0.9169487312076441
+intern_0037,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6405376626293309,Introduction to Front-End Development,0.7699476793673176
+intern_0038,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.3772706409690233,Getting Started with AI using IBM Watson,0.8902538022510262
+intern_0039,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6678029036734874,Python Project for Data Science,0.8142429869939178
+intern_0040,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7167939671577004,Applied Data Science,0.9002263763846962
+intern_0041,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.8072015792994343,Foundations of Cybersecurity,0.8033797951462337
+intern_0042,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5731249934510119,AI For Everyone,0.8605292339254873
+intern_0043,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7310942179538957,Google Data Analytics Capstone: Complete a Case Study,0.9244244013169296
+intern_0044,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5318839265924085,IBM DevOps and Software Engineering,0.9425285616372602
+intern_0045,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.619522289836689,IBM DevOps and Software Engineering,0.9605360527888673
+intern_0046,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6362925387807753,Data Modeling in Power BI,0.8139962434904768
+intern_0047,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.540792027157846,IBM DevOps and Software Engineering,0.9999999999999998
+intern_0048,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7665777119105134,Google Data Analytics Capstone: Complete a Case Study,0.8528177483417123
+intern_0049,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7415612402888456,IBM Data Analytics with Excel and R,0.8596392238215256
+intern_0050,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7522982058909101,Foundations of Cybersecurity,0.8691431281442707
+intern_0051,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7514105104992463,IBM DevOps and Software Engineering,0.8662899975323913
+intern_0052,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6573490737369809,Go Beyond the Numbers: Translate Data into Insights,0.9668762081311765
+intern_0053,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6732236015718269,IBM DevOps and Software Engineering,0.8248452603012777
+intern_0054,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5703726448416812,Introduction to Front-End Development,0.9550343666255946
+intern_0055,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5309954491452811,Introduction to Front-End Development,0.9425453676022798
+intern_0056,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6627291181608665,Tools for Data Science,0.8847449839131675
+intern_0057,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6779030641405148,Cloud Application Development Foundations,0.8825434381697215
+intern_0058,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7738078206778418,Google Data Analytics Capstone: Complete a Case Study,0.8581729232764291
+intern_0059,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7296530421911446,IBM DevOps and Software Engineering,0.88860935855468
+intern_0060,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6840937374875043,IBM DevOps and Software Engineering,0.9413823022933804
+intern_0061,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5964081666314792,Go Beyond the Numbers: Translate Data into Insights,0.918725958577717
+intern_0062,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5197493430075071,Google Digital Marketing & E-commerce,0.7978952526992383
+intern_0063,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7448234316107222,Cloud Application Development Foundations,0.7947935181185577
+intern_0064,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.49341770607438407,"HTML, CSS, and Javascript for Web Developers",0.9647411605889222
+intern_0065,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5958650613069288,IBM DevOps and Software Engineering,0.9901645893460405
+intern_0066,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.540792027157846,IBM DevOps and Software Engineering,0.9999999999999998
+intern_0067,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5335672724011493,Hands-on Introduction to Linux Commands and Shell Scripting,0.8758752855630184
+intern_0068,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6616803928039153,Project Management & Other Tools for Career Development,0.8140649589821334
+intern_0069,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.3860617554641097,Getting Started with AI using IBM Watson,0.8776840459192121
+intern_0070,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5520153932104765,IBM DevOps and Software Engineering,0.9998085681202578
+intern_0071,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.634021031884767,Data Science Graduate Certificate,0.8230959155096385
+intern_0072,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6952013631792975,Data Modeling in Power BI,0.8380331837557213
+intern_0073,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6064426817491404,Cybersécurité Google,0.8418108213228112
+intern_0074,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7825186479146614,Foundations of Cybersecurity,0.8816884956816801
+intern_0075,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7788040362423803,Foundations of Cybersecurity,0.8782126854802891
+intern_0076,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5616403636956416,IBM DevOps and Software Engineering,0.918472201484787
+intern_0077,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6334522325561615,IBM DevOps and Software Engineering,0.9273286437273458
+intern_0078,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6561188518406565,Data Modeling in Power BI,0.9209560774695303
+intern_0079,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.32591972587118617,Machine Learning for Trading,0.9293399975238315
+intern_0080,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6305498237776394,"Modern Robotics:  Mechanics, Planning, and Control",0.9392753861460476
+intern_0081,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7630443862070643,Ciberseguridad de Google,0.8468352530949962
+intern_0082,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5944964724943548,Project Management & Other Tools for Career Development,0.7780666416990295
+intern_0083,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.556559428621576,Cloud Application Development Foundations,0.8237975408480293
+intern_0084,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6416102224145956,Go Beyond the Numbers: Translate Data into Insights,0.9361477036519351
+intern_0085,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5330898856056581,AI For Everyone,0.8836312896801422
+intern_0086,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5227882944974702,"HTML, CSS, and Javascript for Web Developers",0.9463477763289188
+intern_0087,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6075170187603874,AI For Everyone,0.7871043846478486
+intern_0088,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5497596573430108,IBM DevOps and Software Engineering,0.9378611185867984
+intern_0089,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6952182234758257,Tools for Data Science,0.9163657642989587
+intern_0090,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5289267846142884,Robotics,0.7817762720436977
+intern_0091,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5540439654374728,IBM & Darden Digital Strategy,0.8662943377717399
+intern_0092,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6298466031232638,IBM DevOps and Software Engineering,0.88313846990552
+intern_0093,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.41485587945107366,Google Digital Marketing & E-commerce,0.8124275104601631
+intern_0094,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6253140788589886,IBM DevOps and Software Engineering,0.9655421806694725
+intern_0095,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.4690464432357281,"HTML, CSS, and Javascript for Web Developers",0.8966893663269134
+intern_0096,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.540792027157846,IBM DevOps and Software Engineering,0.9999999999999998
+intern_0097,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5430531499623931,Introduction to Front-End Development,0.9057228830718739
+intern_0098,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7692295094875545,Using Python to Access Web Data,0.8105920710618476
+intern_0099,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5747399733896287,IBM DevOps and Software Engineering,0.9000029460893716
+intern_0100,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6363443360516402,Go Beyond the Numbers: Translate Data into Insights,0.8379612359869677
+intern_0101,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6401066941528691,"Modern Robotics:  Mechanics, Planning, and Control",0.9346902700995694
+intern_0102,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.4852866741204602,"HTML, CSS, and Javascript for Web Developers",0.9341256586145016
+intern_0103,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.27748874270621815,Structuring Machine Learning Projects,0.9110797995899312
+intern_0104,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6305158892201644,IBM & Darden Digital Strategy,0.7983061811079848
+intern_0105,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6604566524456664,AI For Everyone,0.7263442492253583
+intern_0106,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6341812294800212,IBM DevOps and Software Engineering,0.7772099301933921
+intern_0107,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5148138495022062,IBM DevOps and Software Engineering,0.9004167023937859
+intern_0108,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5574763099304175,IBM DevOps and Software Engineering,0.9461157854522027
+intern_0109,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6933980916107944,Using Python to Access Web Data,0.9346851754783696
+intern_0110,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.540792027157846,IBM DevOps and Software Engineering,0.9999999999999998
+intern_0111,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5520153932104765,IBM DevOps and Software Engineering,0.9998085681202578
+intern_0112,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5135227117957657,IBM DevOps and Software Engineering,0.9883072987274393
+intern_0113,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.49339361699838913,"HTML, CSS, and Javascript for Web Developers",0.9401239726892855
+intern_0114,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.411255530831736,Getting Started with AI using IBM Watson,0.8704879576742881
+intern_0115,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6632905637548525,Go Beyond the Numbers: Translate Data into Insights,0.8246943295303115
+intern_0116,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5620625036210757,IBM Applied AI,0.8592680819808208
+intern_0117,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6273403129099571,IBM & Darden Digital Strategy,0.755416730085442
+intern_0118,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7850238682313974,Foundations of Cybersecurity,0.8126662354210364
+intern_0119,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6283913416067264,IBM DevOps and Software Engineering,0.8990156847995853
+intern_0120,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.679160918706816,Web Applications for Everybody,0.8695661886383677
+intern_0121,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6036559411773763,IBM DevOps and Software Engineering,0.9797450879360139
+intern_0122,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5583788587461599,Introduction to Front-End Development,0.9435766965979612
+intern_0123,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7428811010803555,Google Data Analytics Capstone: Complete a Case Study,0.8666609879693913
+intern_0124,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7814761086800798,Tools for Data Science,0.860440523573333
+intern_0125,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5989934891289385,Image Processing for Engineering and Science,0.8716054793763005
+intern_0126,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6800182726841473,Cloud Application Development Foundations,0.9240930829914235
+intern_0127,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5520153932104765,IBM DevOps and Software Engineering,0.9998085681202578
+intern_0128,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.667209145595146,IBM DevOps and Software Engineering,0.8138696452671901
+intern_0129,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6778661277883863,IBM DevOps and Software Engineering,0.9320949445756461
+intern_0130,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5380879612297311,AI For Everyone,0.7712034887508636
+intern_0131,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.46692170978105113,IBM DevOps and Software Engineering,0.8668092533968381
+intern_0132,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5520153932104765,IBM DevOps and Software Engineering,0.9998085681202578
+intern_0133,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.3901672049204315,"HTML, CSS, and Javascript for Web Developers",0.8690501521041462
+intern_0134,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5004968267464791,Robotics,0.8025557659248047
+intern_0135,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5520153932104765,IBM DevOps and Software Engineering,0.9998085681202578
+intern_0136,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7700808093763355,Microsoft Power BI Data Analyst,0.8621437457809691
+intern_0137,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.41647726009529934,Introduction to Front-End Development,0.7632404254490199
+intern_0138,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6248441056841787,IBM DevOps and Software Engineering,0.9506489008670878
+intern_0139,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7190617902749159,Tools for Data Science,0.8176185602090262
+intern_0140,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6647500399491816,IBM Data Science,0.8556406354443239
+intern_0141,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.4894694913327974,"HTML, CSS, and Javascript for Web Developers",0.9713716374251442
+intern_0142,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.29756412419326067,Structuring Machine Learning Projects,0.9183302268572096
+intern_0143,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5758824329613552,IBM DevOps and Software Engineering,0.7988356279497679
+intern_0144,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.775047747622607,"Modern Robotics:  Mechanics, Planning, and Control",0.8033023691139207
+intern_0145,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.47820245841933173,"HTML, CSS, and Javascript for Web Developers",0.9517567089201626
+intern_0146,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5599991393753979,IBM DevOps and Software Engineering,0.9670950178741635
+intern_0147,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7024043577816679,IBM Data Science,0.8092394910216526
+intern_0148,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5900058715434393,Introduction to Programming with MATLAB,0.9421761527251972
+intern_0149,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5866427668840503,IBM DevOps and Software Engineering,0.8157070165278757
+intern_0150,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.540792027157846,IBM DevOps and Software Engineering,0.9999999999999998
+intern_0151,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6398499171640747,IBM DevOps and Software Engineering,0.7745508012588247
+intern_0152,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.540792027157846,IBM DevOps and Software Engineering,0.9999999999999998
+intern_0153,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5656878140076463,Introduction to Programming with MATLAB,0.9493350445349665
+intern_0154,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.540792027157846,IBM DevOps and Software Engineering,0.9999999999999998
+intern_0155,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6109381421571085,IBM DevOps and Software Engineering,0.9278569146985733
+intern_0156,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6079077134479688,IBM DevOps and Software Engineering,0.9821399662881636
+intern_0157,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5520153932104765,IBM DevOps and Software Engineering,0.9998085681202578
+intern_0158,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.4985845529031061,"HTML, CSS, and Javascript for Web Developers",0.9581188109954324
+intern_0159,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.540792027157846,IBM DevOps and Software Engineering,0.9999999999999998
+intern_0160,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.42559379010485,IBM Applied AI,0.9135830006835397
+intern_0161,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5229361443182209,"HTML, CSS, and Javascript for Web Developers",0.9112330442296619
+intern_0162,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6439858755378406,IBM DevOps and Software Engineering,0.8113131677187232
+intern_0163,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6919813722618157,IBM Data Science,0.8308557800488614
+intern_0164,3,"Cluster 3 (gcp, kubernetes, aws, azure, docker)",0.40930622883478784,Preparing for Google Cloud Certification: Cloud DevOps Engineer,0.7656276946835718
+intern_0165,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.3875592529360582,Structuring Machine Learning Projects,0.836141834536837
+intern_0166,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.540792027157846,IBM DevOps and Software Engineering,0.9999999999999998
+intern_0167,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.46375278185476587,Project Management & Other Tools for Career Development,0.9446276247558956
+intern_0168,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5542883342731697,IBM DevOps and Software Engineering,0.882739586004692
+intern_0169,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6626637797383439,Using Python to Access Web Data,0.8352949017246085
+intern_0170,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5816168587862809,Cloud Application Development Foundations,0.9684463253612533
+intern_0171,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5527882551511022,Operating Systems and You: Becoming a Power User,0.7253301643396897
+intern_0172,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5298084901506981,IBM DevOps and Software Engineering,0.9825221290320304
+intern_0173,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.3926715364871561,Cloud Application Development Foundations,0.731974096559458
+intern_0174,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.589299281409912,Introduction to Front-End Development,0.7682337209623659
+intern_0175,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.3851463063739445,"HTML, CSS, and Javascript for Web Developers",0.8625775270321392
+intern_0176,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7153131297574963,Tools for Data Science,0.8680889445303931
+intern_0177,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6300946298020874,Go Beyond the Numbers: Translate Data into Insights,0.9637032876698516
+intern_0178,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5310037778930965,IBM DevOps and Software Engineering,0.9660142491122404
+intern_0179,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6638667168569126,Cloud Application Development Foundations,0.8113871137731087
+intern_0180,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5125433494935592,"HTML, CSS, and Javascript for Web Developers",0.9085963159872572
+intern_0181,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7230231673190806,Tools for Data Science,0.8890832329436473
+intern_0182,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7098132882616369,Go Beyond the Numbers: Translate Data into Insights,0.8984670115707621
+intern_0183,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5575352469744694,IBM DevOps and Software Engineering,0.7305340000173812
+intern_0184,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6289395708341003,Cloud Application Development Foundations,0.920781848690071
+intern_0185,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7208313486462149,Google Data Analytics Capstone: Complete a Case Study,0.8842303840914801
+intern_0186,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5850060897969525,IBM DevOps and Software Engineering,0.7765538855569154
+intern_0187,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7127115177987855,AWS Cloud Technology Consultant,0.7489985662094449
+intern_0188,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6333218453376688,IBM DevOps and Software Engineering,0.8364499127198685
+intern_0189,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6949351742872912,Applied Data Science,0.8251009923540503
+intern_0190,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.540792027157846,IBM DevOps and Software Engineering,0.9999999999999998
+intern_0191,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5911510951580659,AWS Cloud Technology Consultant,0.9467965289305911
+intern_0192,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7055793270285825,AWS Cloud Technology Consultant,0.798926968448633
+intern_0193,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5183675836446004,"HTML, CSS, and Javascript for Web Developers",0.9401401066228332
+intern_0194,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.39551563950836244,"HTML, CSS, and Javascript for Web Developers",0.8962259549713132
+intern_0195,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.589288090438218,Cloud Application Development Foundations,0.953050602473289
+intern_0196,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6527356872635532,Data Science Graduate Certificate,0.7957847542018827
+intern_0197,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.540792027157846,IBM DevOps and Software Engineering,0.9999999999999998
+intern_0198,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.4676196255008958,"HTML, CSS, and Javascript for Web Developers",0.9002455158476221
+intern_0199,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.4535867781057466,"HTML, CSS, and Javascript for Web Developers",0.9233226822447413
+intern_0200,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.637830845573776,Go Beyond the Numbers: Translate Data into Insights,0.9418729753313259
+intern_0201,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5201958781114481,"HTML, CSS, and Javascript for Web Developers",0.9140472200015184
+intern_0202,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7086213759999521,IBM DevOps and Software Engineering,0.7887278497813482
+intern_0203,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7070516533870794,IBM Data Science,0.7326161209761053
+intern_0204,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5427305008115327,IBM DevOps and Software Engineering,0.8352267036320998
+intern_0205,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.36223245946712573,Robotics,0.8250831707572395
+intern_0206,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5928830893238786,IBM DevOps and Software Engineering,0.7774178510418285
+intern_0207,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.599894892091268,AI For Everyone,0.8198994565402983
+intern_0208,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7320635232421826,Python Project for Data Science,0.8684075787313372
+intern_0209,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7533341003714197,Microsoft Power BI Data Analyst,0.9093496058033627
+intern_0210,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.540792027157846,IBM DevOps and Software Engineering,0.9999999999999998
+intern_0211,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6135155442372332,IBM DevOps and Software Engineering,0.7794430141957184
+intern_0212,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6717579581534312,Python Project for Data Science,0.931353655250743
+intern_0213,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7250340203192626,Google Data Analytics Capstone: Complete a Case Study,0.8969834396980119
+intern_0214,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5683805853387767,Advanced Embedded Linux Development,0.9366214047547191
+intern_0215,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6972561363856448,IBM DevOps and Software Engineering,0.9237769127948715
+intern_0216,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6540758037015328,Using Python to Access Web Data,0.8146352342746165
+intern_0217,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.44771028846415606,Introduction to Front-End Development,0.8058795838260269
+intern_0218,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5877542263607527,IBM DevOps and Software Engineering,0.9864975350854395
+intern_0219,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5769404864517658,Cloud Application Development Foundations,0.7541564043052009
+intern_0220,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5407975131803227,Introduction to Front-End Development,0.9186812648786962
+intern_0221,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6105828077556843,Cloud Application Development Foundations,0.8624985989723137
+intern_0222,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6427832662932588,Go Beyond the Numbers: Translate Data into Insights,0.9639577200745874
+intern_0223,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5455696511264658,IBM DevOps and Software Engineering,0.8964587139418789
+intern_0224,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.4796555734212437,"HTML, CSS, and Javascript for Web Developers",0.9365938179682536
+intern_0225,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5323705298639013,Cloud Application Development Foundations,0.7420313132566485
+intern_0226,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7039697101038224,Foundations of Cybersecurity,0.6960347762102136
+intern_0227,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6046914952231227,IBM DevOps and Software Engineering,0.8673005913821944
+intern_0228,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.612609381022272,Cloud Application Development Foundations,0.7950723933781892
+intern_0229,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6754172284327141,AWS Cloud Technology Consultant,0.7784564132278919
+intern_0230,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.4186395046470903,Getting Started with AI using IBM Watson,0.8536870154080898
+intern_0231,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5520153932104765,IBM DevOps and Software Engineering,0.9998085681202578
+intern_0232,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7343319345340562,Google Data Analytics Capstone: Complete a Case Study,0.8968449056119105
+intern_0233,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.38349927423563474,"HTML, CSS, and Javascript for Web Developers",0.791262320717119
+intern_0234,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.632218940077834,Data Science Graduate Certificate,0.8169192501784331
+intern_0235,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5290061379633613,"HTML, CSS, and Javascript for Web Developers",0.9341655783289184
+intern_0236,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6300239195632298,Cloud Application Development Foundations,0.9166217381030929
+intern_0237,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.33237194518827556,Structuring Machine Learning Projects,0.8754781242784521
+intern_0238,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.540792027157846,IBM DevOps and Software Engineering,0.9999999999999998
+intern_0239,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6393208618910607,"Modern Robotics:  Mechanics, Planning, and Control",0.9240983885870482
+intern_0240,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6009609696437613,Using Python to Access Web Data,0.8982018159831965
+intern_0241,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.672278447388589,Go Beyond the Numbers: Translate Data into Insights,0.9572415557968103
+intern_0242,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7255226607519221,Google Data Analytics Capstone: Complete a Case Study,0.9175237510818147
+intern_0243,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5489819590491279,Cloud Application Development Foundations,0.9122093177469949
+intern_0244,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5705577704720358,Machine Learning for Trading,0.7829405451979482
+intern_0245,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.57825363868237,Introduction to Front-End Development,0.9600543292995558
+intern_0246,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6257310493641013,Using Python to Access Web Data,0.7786352684321928
+intern_0247,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5496234016689415,IBM DevOps and Software Engineering,0.8003719126684967
+intern_0248,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.539109410234352,Introduction to Front-End Development,0.8983480860992117
+intern_0249,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5207493779046315,Cloud Application Development Foundations,0.9172471741071678
+intern_0250,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.4275174145096827,"HTML, CSS, and Javascript for Web Developers",0.9761389694964718
+intern_0251,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5973166530344514,Introduction to Front-End Development,0.8364154773182773
+intern_0252,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5771388801417636,IBM DevOps and Software Engineering,0.7212386454711286
+intern_0253,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6898718447736838,IBM DevOps and Software Engineering,0.942803634784371
+intern_0254,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.540792027157846,IBM DevOps and Software Engineering,0.9999999999999998
+intern_0255,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5244768927977554,Introduction to Front-End Development,0.9184173049786614
+intern_0256,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6844006987841479,Cloud Application Development Foundations,0.8839901428750091
+intern_0257,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5857477084326312,IBM DevOps and Software Engineering,0.9938457643153926
+intern_0258,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6333896714142805,Using Python to Access Web Data,0.955057551470773
+intern_0259,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6918867997459971,IBM Data Science,0.8002074613066174
+intern_0260,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5582107074095367,Google Digital Marketing & E-commerce,0.8163242487725464
+intern_0261,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5520153932104765,IBM DevOps and Software Engineering,0.9998085681202578
+intern_0262,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5520153932104765,IBM DevOps and Software Engineering,0.9998085681202578
+intern_0263,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.540792027157846,IBM DevOps and Software Engineering,0.9999999999999998
+intern_0264,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.540792027157846,IBM DevOps and Software Engineering,0.9999999999999998
+intern_0265,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.540792027157846,IBM DevOps and Software Engineering,0.9999999999999998
+intern_0266,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6200323730505574,IBM & Darden Digital Strategy,0.79837398451191
+intern_0267,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.4648884178455994,IBM DevOps and Software Engineering,0.8854776822350525
+intern_0268,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.540792027157846,IBM DevOps and Software Engineering,0.9999999999999998
+intern_0269,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5612266487516809,Google IT Support,0.8004848351714774
+intern_0270,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.4969224368003069,"HTML, CSS, and Javascript for Web Developers",0.9234200108834906
+intern_0271,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.47082155815381077,Google Digital Marketing & E-commerce,0.9293343020698609
+intern_0272,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6422550148176518,IBM Data Science,0.8002963353247055
+intern_0273,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6047472094239298,Google Digital Marketing & E-commerce,0.7403670284546174
+intern_0274,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7125774060197441,IBM DevOps and Software Engineering,0.8377265846531666
+intern_0275,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6184973306766657,Google Digital Marketing & E-commerce,0.6787105179166066
+intern_0276,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5332519455825686,"HTML, CSS, and Javascript for Web Developers",0.9247471458930545
+intern_0277,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7777051707704616,Using Python to Access Web Data,0.822833084313918
+intern_0278,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7289280712698443,Tools for Data Science,0.840917970392361
+intern_0279,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.540792027157846,IBM DevOps and Software Engineering,0.9999999999999998
+intern_0280,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.540792027157846,IBM DevOps and Software Engineering,0.9999999999999998
+intern_0281,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5992765162096753,IBM Data Science,0.7754059880790407
+intern_0282,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6664135811070796,Using Python to Access Web Data,0.7532508941890657
+intern_0283,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.3829926140989729,"HTML, CSS, and Javascript for Web Developers",0.8468491106781717
+intern_0284,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5520153932104765,IBM DevOps and Software Engineering,0.9998085681202578
+intern_0285,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.693544164873994,Cloud Application Development Foundations,0.8814527029842305
+intern_0286,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7315744950028685,Applied Data Science,0.8395013371415739
+intern_0287,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5849027782838239,AI For Everyone,0.8424546709795009
+intern_0288,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.62548147140143,IBM DevOps and Software Engineering,0.9653361126428388
+intern_0289,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5558675220192825,Robotics,0.862030061523234
+intern_0290,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.48617145797076394,Introduction to Front-End Development,0.9181481254692948
+intern_0291,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5636938157817631,IBM DevOps and Software Engineering,0.9498019089598532
+intern_0292,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.4387944397280711,"HTML, CSS, and Javascript for Web Developers",0.9859646272527416
+intern_0293,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5810461228901127,IBM & Darden Digital Strategy,0.771264032269411
+intern_0294,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.43368209614606623,Introduction to Front-End Development,0.8865189508201997
+intern_0295,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.4953616381881094,Introduction to Front-End Development,0.8478830699625439
+intern_0296,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.694169710806569,Foundations of Cybersecurity,0.7668998881946939
+intern_0297,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6352123028520065,IBM DevOps and Software Engineering,0.9328947520026045
+intern_0298,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5537093462873113,IBM DevOps and Software Engineering,0.9976676757934472
+intern_0299,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5833042377592383,IBM DevOps and Software Engineering,0.934339772199418
+intern_0300,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7022642101371206,IBM DevOps and Software Engineering,0.8256934161585179
+intern_0301,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6264803099173096,IBM DevOps and Software Engineering,0.895121444291707
+intern_0302,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5610310044378495,IBM DevOps and Software Engineering,0.9010032910985308
+intern_0303,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5520153932104765,IBM DevOps and Software Engineering,0.9998085681202578
+intern_0304,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.540792027157846,IBM DevOps and Software Engineering,0.9999999999999998
+intern_0305,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7239322382771742,Google Data Analytics Capstone: Complete a Case Study,0.9538952681903736
+intern_0306,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7700377865979375,Using Python to Access Web Data,0.8153906509788384
+intern_0307,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5280685400132547,Machine Learning for Trading,0.8221897032131604
+intern_0308,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6108041176089637,Cloud Application Development Foundations,0.8801150870166548
+intern_0309,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7521039686994617,Applied Data Science,0.8563102395962404
+intern_0310,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.3839349218115122,"HTML, CSS, and Javascript for Web Developers",0.9377012639897825
+intern_0311,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.4677882251891964,"HTML, CSS, and Javascript for Web Developers",0.9282671982623547
+intern_0312,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7500005246406897,Cybersécurité Google,0.7958689445115257
+intern_0313,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.3223811208482426,Getting Started with AI using IBM Watson,0.9165163636042106
+intern_0314,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.42734716826772656,Introduction to Front-End Development,0.8620344346389011
+intern_0315,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.540792027157846,IBM DevOps and Software Engineering,0.9999999999999998
+intern_0316,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5812426370866517,IBM DevOps and Software Engineering,0.8798911917868201
+intern_0317,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6358221085279524,Using Python to Access Web Data,0.8161242403139096
+intern_0318,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.4685657413316415,Key Technologies for Business,0.8379982929476519
+intern_0319,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6148689233032595,Digital Marketing,0.751185978222537
+intern_0320,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.4110961631457668,Robotics,0.851675411356761
+intern_0321,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.47400706991198527,Project Management & Other Tools for Career Development,0.9379751108325917
+intern_0322,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7015201723333696,Tools for Data Science,0.8128667068265101
+intern_0323,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.540792027157846,IBM DevOps and Software Engineering,0.9999999999999998
+intern_0324,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.47071035325055044,Robotics,0.8836927222067571
+intern_0325,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.4037613278722408,Project Management & Other Tools for Career Development,0.8029800897185868
+intern_0326,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.612029849479212,IBM DevOps and Software Engineering,0.7684537029572197
+intern_0327,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.540792027157846,IBM DevOps and Software Engineering,0.9999999999999998
+intern_0328,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5485754960080813,Google IT Support,0.845291769572597
+intern_0329,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5398143032782795,Image Processing for Engineering and Science,0.8105011283010152
+intern_0330,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5019101405297304,"HTML, CSS, and Javascript for Web Developers",0.9569655275406637
+intern_0331,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.3695846017459626,Getting Started with AI using IBM Watson,0.8443224252286758
+intern_0332,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5858969495951877,Google Digital Marketing & E-commerce,0.8463202508583395
+intern_0333,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.4493065905012161,Getting Started with AI using IBM Watson,0.8220547389790862
+intern_0334,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7767110338810502,Applied Data Science,0.7769814596098543
+intern_0335,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5731877346453198,Introduction to Front-End Development,0.9550067541015983
+intern_0336,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7170637237082464,IBM DevOps and Software Engineering,0.865695172628208
+intern_0337,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6599815853713615,Google Data Analytics,0.8118132187219563
+intern_0338,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.540792027157846,IBM DevOps and Software Engineering,0.9999999999999998
+intern_0339,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.540792027157846,IBM DevOps and Software Engineering,0.9999999999999998
+intern_0340,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6283528753534429,IBM DevOps and Software Engineering,0.8607827983877291
+intern_0341,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6342164483133936,IBM DevOps and Software Engineering,0.9245116365418561
+intern_0342,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5402083457257094,IBM DevOps and Software Engineering,0.9072868395249182
+intern_0343,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.4969739972237397,IBM DevOps and Software Engineering,0.9598326996340207
+intern_0344,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5052081294474309,Cloud Application Development Foundations,0.9148951129128987
+intern_0345,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6607394492674623,Cloud Application Development Foundations,0.8978336995835192
+intern_0346,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7259254530472873,Google Data Analytics Capstone: Complete a Case Study,0.9298967230377149
+intern_0347,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6051580279700476,IBM DevOps and Software Engineering,0.9592755981426024
+intern_0348,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.48352951787195314,Cloud Application Development Foundations,0.8276413113600122
+intern_0349,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6227708680890953,Using Python to Access Web Data,0.7914862700771946
+intern_0350,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5565167764426081,Web Applications for Everybody,0.9066050290446508
+intern_0351,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.531677221202082,Cloud Application Development Foundations,0.9769560290432612
+intern_0352,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7194658298870346,Tools for Data Science,0.8529830735918351
+intern_0353,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5437790836379915,Key Technologies for Business,0.8068814480543179
+intern_0354,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.49656556862795953,"HTML, CSS, and Javascript for Web Developers",0.9465074766532611
+intern_0355,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5855174867552139,IBM & Darden Digital Strategy,0.8441599946601165
+intern_0356,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5658004536114746,IBM DevOps and Software Engineering,0.9928823763832227
+intern_0357,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7434560341780113,Tools for Data Science,0.8126256098144325
+intern_0358,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.8092893250847283,"Modern Robotics:  Mechanics, Planning, and Control",0.7976333720457385
+intern_0359,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.4581256943923786,AI for Good,0.8509645402634145
+intern_0360,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7264478755628553,Tools for Data Science,0.804532726156223
+intern_0361,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6357646661294821,IBM DevOps and Software Engineering,0.9186653502513368
+intern_0362,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.567149280686857,Hands-on Introduction to Linux Commands and Shell Scripting,0.7345967211095222
+intern_0363,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.47494301354846447,"HTML, CSS, and Javascript for Web Developers",0.9529854048290539
+intern_0364,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5464457871509962,"HTML, CSS, and Javascript for Web Developers",0.8960978385514102
+intern_0365,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.8103969021988398,Microsoft Power BI Data Analyst,0.8394073831050792
+intern_0366,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7621802202903002,Microsoft Power BI Data Analyst,0.9336071888874318
+intern_0367,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6442357957006286,Data Modeling in Power BI,0.9324411068274101
+intern_0368,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7107410162940547,Fundamentos de la ciberseguridad,0.8177363072743633
+intern_0369,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.58129843470573,IBM & Darden Digital Strategy,0.8708038380689094
+intern_0370,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.43555603612683946,"HTML, CSS, and Javascript for Web Developers",0.9101267701939493
+intern_0371,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.4317640996971989,Getting Started with AI using IBM Watson,0.8441696080922154
+intern_0372,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.540792027157846,IBM DevOps and Software Engineering,0.9999999999999998
+intern_0373,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6983054702074301,Cloud Application Development Foundations,0.8862944589984685
+intern_0374,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7389151793167167,Foundations of Cybersecurity,0.8592797816390659
+intern_0375,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6906207544876256,Cloud Application Development Foundations,0.8989095107542711
+intern_0376,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7305613937916472,Google Data Analytics Capstone: Complete a Case Study,0.8869435067365405
+intern_0377,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6214864524960522,AI For Everyone,0.8434959392811089
+intern_0378,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5520153932104765,IBM DevOps and Software Engineering,0.9998085681202578
+intern_0379,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6018026881503407,IBM DevOps and Software Engineering,0.9178516701859141
+intern_0380,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7207584015751524,IBM Data Science,0.7899177702662337
+intern_0381,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7811576694257263,Microsoft Power BI Data Analyst,0.861330948230791
+intern_0382,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5674949860330651,Introduction to Programming with MATLAB,0.9486183346425766
+intern_0383,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.27299749538230783,Robotics,0.9516731231317438
+intern_0384,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6741716091602402,Using Python to Access Web Data,0.8685909421063257
+intern_0385,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.794379405398365,Tools for Data Science,0.8208752130808206
+intern_0386,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.37980401725558355,"HTML, CSS, and Javascript for Web Developers",0.9777484971484232
+intern_0387,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5289085085108853,AI For Everyone,0.7647487437334828
+intern_0388,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6514645202016569,IBM Data Science,0.8057969890872444
+intern_0389,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6267822758688029,IBM DevOps and Software Engineering,0.9601655775495387
+intern_0390,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5782000540145421,IBM DevOps and Software Engineering,0.8758338634835092
+intern_0391,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7007859804538998,Cloud Application Development Foundations,0.8874751192885255
+intern_0392,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7742241644493483,Google Data Analytics Capstone: Complete a Case Study,0.8600109734000533
+intern_0393,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.16310652911940057,Structuring Machine Learning Projects,0.9414924217078315
+intern_0394,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.605243680529143,AI For Everyone,0.7977710322855829
+intern_0395,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5927281560561851,"HTML, CSS, and Javascript for Web Developers",0.9064883423411637
+intern_0396,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7945512372195422,IBM DevOps and Software Engineering,0.8281461915029568
+intern_0397,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.540792027157846,IBM DevOps and Software Engineering,0.9999999999999998
+intern_0398,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.540792027157846,IBM DevOps and Software Engineering,0.9999999999999998
+intern_0399,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6095563484935516,Ciberseguridad de Google,0.7712251511310184
+intern_0400,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.540792027157846,IBM DevOps and Software Engineering,0.9999999999999998
+intern_0401,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6154045352676366,IBM DevOps and Software Engineering,0.9209967050438864
+intern_0402,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.36002360230616076,Getting Started with AI using IBM Watson,0.9119591556456412
+intern_0403,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5130712151453911,"HTML, CSS, and Javascript for Web Developers",0.9490818921975662
+intern_0404,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6493147510289901,"Modern Robotics:  Mechanics, Planning, and Control",0.9379759761833047
+intern_0405,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.48784643982378595,Image Processing for Engineering and Science,0.8834672341623481
+intern_0406,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6207313456753286,Digital Manufacturing & Design Technology,0.8524830860113243
+intern_0407,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7299825968593375,Google Data Analytics Capstone: Complete a Case Study,0.9372397992896736
+intern_0408,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6182260923333708,IBM DevOps and Software Engineering,0.9341706944343445
+intern_0409,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5893845604279152,IBM DevOps and Software Engineering,0.9429576144396565
+intern_0410,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.4918895773205195,"HTML, CSS, and Javascript for Web Developers",0.9138604211305271
+intern_0411,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.35139566037599446,"HTML, CSS, and Javascript for Web Developers",0.9756944240266249
+intern_0412,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.540792027157846,IBM DevOps and Software Engineering,0.9999999999999998
+intern_0413,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5203871408572298,"HTML, CSS, and Javascript for Web Developers",0.9303351935937197
+intern_0414,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6009465294513532,Cloud Application Development Foundations,0.8146803740761195
+intern_0415,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.4629502698647236,"HTML, CSS, and Javascript for Web Developers",0.9688849602328441
+intern_0416,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5672898481750732,Introduction to Programming with MATLAB,0.9487247567126202
+intern_0417,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6164262860683317,Data Modeling in Power BI,0.9133414924376241
+intern_0418,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5954100883660051,Project Management & Other Tools for Career Development,0.7778686654429627
+intern_0419,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6008806744751286,Go Beyond the Numbers: Translate Data into Insights,0.7813290801189084
+intern_0420,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.3145290223332018,Structuring Machine Learning Projects,0.8741637311117446
+intern_0421,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.4413714669886006,"HTML, CSS, and Javascript for Web Developers",0.9040557363380026
+intern_0422,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7242968039432961,Microsoft Power BI Data Analyst,0.7992783335223822
+intern_0423,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6212144290650661,Go Beyond the Numbers: Translate Data into Insights,0.8584570714621026
+intern_0424,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7676777439340926,Foundations of Cybersecurity,0.866924782008394
+intern_0425,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6305498237776394,"Modern Robotics:  Mechanics, Planning, and Control",0.9392753861460476
+intern_0426,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6778057578366936,Cloud Application Development Foundations,0.9117599748529442
+intern_0427,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6308889045524785,Data Modeling in Power BI,0.9382471387780104
+intern_0428,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6359115498347889,Data Modeling in Power BI,0.9542255325247241
+intern_0429,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5382161734428622,Cloud Application Development Foundations,0.8793237872425234
+intern_0430,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6272015005909904,Project Management & Other Tools for Career Development,0.7549513317635399
+intern_0431,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.4997424587186408,AI for Good,0.8070159718952441
+intern_0432,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6020670321313099,Project Management & Other Tools for Career Development,0.7377417944934589
+intern_0433,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6150130641265162,Data Modeling in Power BI,0.7293921181130995
+intern_0434,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7601452947913486,Microsoft Power BI Data Analyst,0.9260651068646923
+intern_0435,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6072185698543581,IBM DevOps and Software Engineering,0.9826366630024672
+intern_0436,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6747079426347046,IBM DevOps and Software Engineering,0.9324848126130768
+intern_0437,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6336805610308286,Introduction to Front-End Development,0.9143406812567588
+intern_0438,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.540792027157846,IBM DevOps and Software Engineering,0.9999999999999998
+intern_0439,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5006820616220055,"HTML, CSS, and Javascript for Web Developers",0.9625564522776487
+intern_0440,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.540792027157846,IBM DevOps and Software Engineering,0.9999999999999998
+intern_0441,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6008194479830234,Project Management & Other Tools for Career Development,0.7789851203069206
+intern_0442,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6058046627005816,IBM & Darden Digital Strategy,0.8488654365498789
+intern_0443,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5312884855186157,Go Beyond the Numbers: Translate Data into Insights,0.9610635330075625
+intern_0444,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6058999643530628,IBM DevOps and Software Engineering,0.9835592344415673
+intern_0445,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6605492037638471,Cloud Application Development Foundations,0.9040787700774078
+intern_0446,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5506384364574196,IBM DevOps and Software Engineering,0.9425424752582304
+intern_0447,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5560393399389162,"HTML, CSS, and Javascript for Web Developers",0.9185441309023682
+intern_0448,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6234554340052156,IBM DevOps and Software Engineering,0.9677589542750927
+intern_0449,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5978779063926514,Key Technologies for Business,0.7286843217206407
+intern_0450,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.540792027157846,IBM DevOps and Software Engineering,0.9999999999999998
+intern_0451,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6682858713774842,Cloud Application Development Foundations,0.9044699129578228
+intern_0452,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.540792027157846,IBM DevOps and Software Engineering,0.9999999999999998
+intern_0453,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5655761321978088,Project Management & Other Tools for Career Development,0.8733703413607519
+intern_0454,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7008662066480763,Google Digital Marketing & E-commerce,0.8576440490882495
+intern_0455,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6171271716668256,AWS Cloud Technology Consultant,0.7977058151843781
+intern_0456,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6061666801100833,AI For Everyone,0.7951030296529784
+intern_0457,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.540792027157846,IBM DevOps and Software Engineering,0.9999999999999998
+intern_0458,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6099657732747197,Data Modeling in Power BI,0.9184087164828679
+intern_0459,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6319436702041057,IBM DevOps and Software Engineering,0.9533205299732108
+intern_0460,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5448776821905713,Machine Learning for Trading,0.8104019251640882
+intern_0461,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.540792027157846,IBM DevOps and Software Engineering,0.9999999999999998
+intern_0462,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.665438273819522,Google Data Analytics Capstone: Complete a Case Study,0.8446611301632666
+intern_0463,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5520153932104765,IBM DevOps and Software Engineering,0.9998085681202578
+intern_0464,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5341040041473037,"HTML, CSS, and Javascript for Web Developers",0.9380210117909258
+intern_0465,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.540792027157846,IBM DevOps and Software Engineering,0.9999999999999998
+intern_0466,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.4857458151520654,Hands-on Introduction to Linux Commands and Shell Scripting,0.6661043969622262
+intern_0467,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5497840930188308,AI For Everyone,0.8769189185460701
+intern_0468,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6856216687589018,IBM DevOps and Software Engineering,0.9172184694574264
+intern_0469,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6303531139654318,IBM DevOps and Software Engineering,0.9126644468785079
+intern_0470,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6487688480316324,"Modern Robotics:  Mechanics, Planning, and Control",0.9345567642907888
+intern_0471,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7242173155616689,Google Data Analytics Capstone: Complete a Case Study,0.9243440229470611
+intern_0472,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6624961334179298,Cloud Application Development Foundations,0.799947490178298
+intern_0473,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.459186547305879,Project Management & Other Tools for Career Development,0.8794737419706079
+intern_0474,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7458675855640833,IBM DevOps and Software Engineering,0.8680240672028493
+intern_0475,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6675602919084476,Using Python to Access Web Data,0.8957537732570978
+intern_0476,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.3781332834948809,Getting Started with AI using IBM Watson,0.8922976329123917
+intern_0477,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6069263855386969,AI For Everyone,0.8394409525500816
+intern_0478,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.540792027157846,IBM DevOps and Software Engineering,0.9999999999999998
+intern_0479,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6869821181014246,Google Data Analytics Capstone: Complete a Case Study,0.7898135981189409
+intern_0480,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6399290539049416,AWS Cloud Technology Consultant,0.8282659391874597
+intern_0481,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.38290735385422203,Generative Adversarial Networks (GANs),0.8652905854854404
+intern_0482,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5463804286724663,AI For Everyone,0.8549177730525421
+intern_0483,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7135216664369151,Data Modeling in Power BI,0.8578265777113017
+intern_0484,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.49615943326487894,Cloud Application Development Foundations,0.8180705554863245
+intern_0485,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5520153932104765,IBM DevOps and Software Engineering,0.9998085681202578
+intern_0486,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.4149290332832192,Robotics,0.715751395713783
+intern_0487,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7239831466666415,Go Beyond the Numbers: Translate Data into Insights,0.8922237263061229
+intern_0488,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7096874976079133,Tools for Data Science,0.9071935908088445
+intern_0489,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6009707544505797,Data Modeling in Power BI,0.9067275112929848
+intern_0490,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6426782534963381,Using Python to Access Web Data,0.9495613346608349
+intern_0491,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6025189588828523,Robotics,0.7733249056860428
+intern_0492,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5520153932104765,IBM DevOps and Software Engineering,0.9998085681202578
+intern_0493,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5664388072692782,AI For Everyone,0.8194240148359541
+intern_0494,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5951184766254007,Project Management & Other Tools for Career Development,0.8257111611400059
+intern_0495,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6739178478281115,Google Data Analytics Capstone: Complete a Case Study,0.8418817052430871
+intern_0496,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6228677117614635,AI For Everyone,0.8366466749173507
+intern_0497,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6494251230867708,"Modern Robotics:  Mechanics, Planning, and Control",0.9372287706942944
+intern_0498,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5466902456847652,"HTML, CSS, and Javascript for Web Developers",0.9479075920982446
+intern_0499,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.540792027157846,IBM DevOps and Software Engineering,0.9999999999999998
+intern_0500,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.2706924794574464,Structuring Machine Learning Projects,0.9143646233132217
+intern_0501,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6068507684353736,Introduction to Front-End Development,0.8576443524016182
+intern_0502,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5883122392547298,IBM DevOps and Software Engineering,0.8055010892940312
+intern_0503,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5254203428976916,"HTML, CSS, and Javascript for Web Developers",0.8965933871761156
+intern_0504,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5377548933173849,AI For Everyone,0.7835770681931435
+intern_0505,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.4890210935743044,AI For Everyone,0.8190111517384454
+intern_0506,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7706716179223257,Tools for Data Science,0.8724173249522157
+intern_0507,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6810531090595808,Applied Data Science,0.8652337042591116
+intern_0508,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6693749501094565,Cloud Application Development Foundations,0.9310008403109116
+intern_0509,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.540792027157846,IBM DevOps and Software Engineering,0.9999999999999998
+intern_0510,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5727358072398829,IBM DevOps and Software Engineering,0.9744187191158165
+intern_0511,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.688787187571151,Go Beyond the Numbers: Translate Data into Insights,0.9161218426429905
+intern_0512,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.44709306722190856,Cloud Application Development Foundations,0.9278396959125866
+intern_0513,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6993728880539974,Using Python to Access Web Data,0.8975578663936954
+intern_0514,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5208619425603485,Google IT Support,0.7332115125986965
+intern_0515,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6418696903307055,"Modern Robotics:  Mechanics, Planning, and Control",0.941050860144629
+intern_0516,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5512474839712593,Machine Learning for Trading,0.7903901511638887
+intern_0517,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.740002385784251,AWS Cloud Technology Consultant,0.7853992516840653
+intern_0518,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.4240493171372601,"HTML, CSS, and Javascript for Web Developers",0.9684929214233471
+intern_0519,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.540792027157846,IBM DevOps and Software Engineering,0.9999999999999998
+intern_0520,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6897039634493944,AI For Everyone,0.7038847483885773
+intern_0521,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5520153932104765,IBM DevOps and Software Engineering,0.9998085681202578
+intern_0522,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5626794223184215,AI For Everyone,0.8618377178865197
+intern_0523,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5520153932104765,IBM DevOps and Software Engineering,0.9998085681202578
+intern_0524,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.4617584492816546,AI for Good,0.8330419973063599
+intern_0525,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6048949125695156,IBM DevOps and Software Engineering,0.9734764975199103
+intern_0526,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5498801239079549,Cloud Application Development Foundations,0.9378121291589288
+intern_0527,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6451597328784525,Data Science Graduate Certificate,0.8044559177697689
+intern_0528,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7054194076404444,Tools for Data Science,0.8406558148335376
+intern_0529,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5115909486748201,Introduction to Front-End Development,0.8983187381559471
+intern_0530,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6617050126787872,Data Modeling in Power BI,0.8956180449758517
+intern_0531,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6591501331196015,Introduction to Data Science,0.8024196345729279
+intern_0532,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.540792027157846,IBM DevOps and Software Engineering,0.9999999999999998
+intern_0533,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7048060522452142,IBM DevOps and Software Engineering,0.9113455528043694
+intern_0534,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5520153932104765,IBM DevOps and Software Engineering,0.9998085681202576
+intern_0535,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6527594560591257,Using Python to Access Web Data,0.8411200973422496
+intern_0536,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5955590141377866,IBM DevOps and Software Engineering,0.9896526223596561
+intern_0537,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5498600433668451,Advanced Embedded Linux Development,0.9511207634822574
+intern_0538,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5391993535683333,Introduction to Front-End Development,0.9006348271522922
+intern_0539,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6756687559107839,IBM DevOps and Software Engineering,0.951874210736644
+intern_0540,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6594059541417108,IBM DevOps and Software Engineering,0.9282190379604702
+intern_0541,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.540792027157846,IBM DevOps and Software Engineering,0.9999999999999998
+intern_0542,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6097723839519356,Go Beyond the Numbers: Translate Data into Insights,0.8348180511945077
+intern_0543,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5085055990270055,"HTML, CSS, and Javascript for Web Developers",0.9524514389356471
+intern_0544,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6601140162376726,IBM DevOps and Software Engineering,0.9656575357922544
+intern_0545,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6912608427198118,IBM Data Science,0.8400884669026527
+intern_0546,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6550471210081956,Data Modeling in Power BI,0.927999926638474
+intern_0547,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5967382025959463,Go Beyond the Numbers: Translate Data into Insights,0.9176961928453354
+intern_0548,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6850408778870876,AWS Cloud Technology Consultant,0.7335747538702406
+intern_0549,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.4216916193989337,"HTML, CSS, and Javascript for Web Developers",0.9448507271413051
+intern_0550,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6222652152531528,Using Python to Access Web Data,0.9205476407688415
+intern_0551,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.47386371865881827,Project Management & Other Tools for Career Development,0.8466976781495074
+intern_0552,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.48553525342526016,IBM DevOps and Software Engineering,0.8588875367454029
+intern_0553,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6228594407299338,IBM Data Science,0.8307726289987386
+intern_0554,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.39350387058449926,Getting Started with AI using IBM Watson,0.8872030527840831
+intern_0555,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.4288893145161099,"HTML, CSS, and Javascript for Web Developers",0.9332187428442631
+intern_0556,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7215930440589985,Tools for Data Science,0.8527278695579438
+intern_0557,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5382559089578823,"HTML, CSS, and Javascript for Web Developers",0.9199796691104253
+intern_0558,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.48286568282861897,"HTML, CSS, and Javascript for Web Developers",0.9467121726885341
+intern_0559,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.683601917380878,Cloud Application Development Foundations,0.7831600562521271
+intern_0560,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.40455271462898534,Key Technologies for Business,0.9312844256759288
+intern_0561,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7769394208094772,Microsoft Power BI Data Analyst,0.8583404557001408
+intern_0562,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5583352715846054,IBM & Darden Digital Strategy,0.8231743897698918
+intern_0563,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6049571161260582,IBM DevOps and Software Engineering,0.9634347931068643
+intern_0564,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5871938464777204,IBM & Darden Digital Strategy,0.8428292127678257
+intern_0565,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7279952676617903,"Modern Robotics:  Mechanics, Planning, and Control",0.8138887687159673
+intern_0566,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6770074471677717,Using Python to Access Web Data,0.7916810476309807
+intern_0567,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6734516329239985,Cloud Application Development Foundations,0.913284247338572
+intern_0568,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5117779186657396,Robotics,0.8639040399655424
+intern_0569,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6140746713297475,Data Modeling in Power BI,0.9298736056542494
+intern_0570,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.714539307027301,IBM DevOps and Software Engineering,0.9431780321185705
+intern_0571,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7998728822416844,Using Python to Access Web Data,0.8262700482676527
+intern_0572,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5012941386248414,"HTML, CSS, and Javascript for Web Developers",0.9382813700703087
+intern_0573,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5518042798125624,Cloud Application Development Foundations,0.8028880101819204
+intern_0574,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.41718030684211743,Key Technologies for Business,0.8622988864735914
+intern_0575,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6382125102106061,Web Applications for Everybody,0.8939703709711561
+intern_0576,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.49979499007565314,"HTML, CSS, and Javascript for Web Developers",0.9428772457813481
+intern_0577,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6983460846350407,IBM Data Science,0.736262194745482
+intern_0578,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.540792027157846,IBM DevOps and Software Engineering,0.9999999999999998
+intern_0579,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.509064925374149,AI For Everyone,0.9021043052889052
+intern_0580,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6380697963870358,IBM DevOps and Software Engineering,0.915083736376243
+intern_0581,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7805433278989946,Google Data Analytics Capstone: Complete a Case Study,0.8613233425185208
+intern_0582,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6305498237776394,"Modern Robotics:  Mechanics, Planning, and Control",0.9392753861460476
+intern_0583,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5622777040408561,IBM DevOps and Software Engineering,0.9984878915087212
+intern_0584,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6181785126187203,Web Applications for Everybody,0.8513613038199165
+intern_0585,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5456003684168168,IBM DevOps and Software Engineering,0.7889295112360032
+intern_0586,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.540792027157846,IBM DevOps and Software Engineering,0.9999999999999998
+intern_0587,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.46782062717480455,IBM & Darden Digital Strategy,0.8268865913663297
+intern_0588,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5506686527350607,AI For Everyone,0.8846582590676623
+intern_0589,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5703817937317968,IBM DevOps and Software Engineering,0.9818810294945379
+intern_0590,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6148636623460247,IBM & Darden Digital Strategy,0.8088864788450874
+intern_0591,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.4638186039142819,"HTML, CSS, and Javascript for Web Developers",0.9680827700890883
+intern_0592,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6760097359731815,IBM DevOps and Software Engineering,0.8333944688170812
+intern_0593,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6070971524236517,AI For Everyone,0.8281953637113376
+intern_0594,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5545659829045384,IBM DevOps and Software Engineering,0.8313813324757108
+intern_0595,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.46491429044819493,IBM DevOps and Software Engineering,0.9162527589505223
+intern_0596,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5098069013367189,Project Management & Other Tools for Career Development,0.8290705793455356
+intern_0597,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.39647355560008807,"HTML, CSS, and Javascript for Web Developers",0.9880590356622633
+intern_0598,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.4245229262936212,"HTML, CSS, and Javascript for Web Developers",0.892710251364953
+intern_0599,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5543749242781362,IBM DevOps and Software Engineering,0.9980482315893632
+intern_0600,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6373074568601474,IBM DevOps and Software Engineering,0.8866265039737738
+intern_0601,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5870681847528918,Google IT Support,0.778013071356543
+intern_0602,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.670824716710968,IBM Data Science,0.7745990670627046
+intern_0603,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.540792027157846,IBM DevOps and Software Engineering,0.9999999999999998
+intern_0604,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5147253002405081,"HTML, CSS, and Javascript for Web Developers",0.9236440755769815
+intern_0605,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5997837277927136,IBM DevOps and Software Engineering,0.9819503270608325
+intern_0606,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5318501635328713,Introduction to Front-End Development,0.908186167746877
+intern_0607,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7074248355163526,Tools for Data Science,0.8237824145687392
+intern_0608,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6156599316591893,Cloud Application Development Foundations,0.9130822138638511
+intern_0609,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6304442548401374,IBM DevOps and Software Engineering,0.7993480865266809
+intern_0610,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.47863808670479974,IBM DevOps and Software Engineering,0.8762973380323367
+intern_0611,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.609225829962719,Cloud Application Development Foundations,0.9186906596458554
+intern_0612,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5500330974624492,IBM DevOps and Software Engineering,0.8048084171882338
+intern_0613,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5411515335102453,IBM DevOps and Software Engineering,0.9992196694790002
+intern_0614,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5310922319013253,AI For Everyone,0.73505635306079
+intern_0615,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7632077817625111,Fundamentos de la ciberseguridad,0.9168359694420263
+intern_0616,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5527794383728954,IBM DevOps and Software Engineering,0.9353032430993907
+intern_0617,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.47500622298745276,IBM & Darden Digital Strategy,0.6381991426473351
+intern_0618,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.540792027157846,IBM DevOps and Software Engineering,0.9999999999999998
+intern_0619,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5715862557769404,IBM Applied AI,0.8438525456619962
+intern_0620,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5711099439519212,Cloud Application Development Foundations,0.9629682828411086
+intern_0621,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5540738446207113,IBM DevOps and Software Engineering,0.840866387021065
+intern_0622,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5269153778795488,Key Technologies for Business,0.8061585324378637
+intern_0623,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7168840128044105,Tools for Data Science,0.7940554337803044
+intern_0624,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6293188517516884,IBM DevOps and Software Engineering,0.9009882744136553
+intern_0625,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5520153932104765,IBM DevOps and Software Engineering,0.9998085681202578
+intern_0626,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.4943819390013932,IBM DevOps and Software Engineering,0.8955188531652043
+intern_0627,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6005638260303372,Project Management & Other Tools for Career Development,0.8228992540206818
+intern_0628,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7382050012018507,Go Beyond the Numbers: Translate Data into Insights,0.9020432736093894
+intern_0629,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5940382052366352,Image Processing for Engineering and Science,0.8769518916635651
+intern_0630,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7349689451631166,Applied Data Science,0.8298678119082282
+intern_0631,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6067979854389614,IBM DevOps and Software Engineering,0.8150748303684755
+intern_0632,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6104921743713592,AI For Everyone,0.8536768447902052
+intern_0633,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6397142874049436,Cloud Application Development Foundations,0.9118037048886596
+intern_0634,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.4751249238928196,Key Technologies for Business,0.6522436995466824
+intern_0635,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6109979232032816,IBM & Darden Digital Strategy,0.830223237524075
+intern_0636,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7061023464617818,IBM Data Science,0.7335979656274131
+intern_0637,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.3658642656774835,Google Digital Marketing & E-commerce,0.7877587683351811
+intern_0638,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6052269222012182,IBM DevOps and Software Engineering,0.8457098813679119
+intern_0639,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7079770878615419,IBM DevOps and Software Engineering,0.9253662835992518
+intern_0640,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.40593733498186746,IBM DevOps and Software Engineering,0.8606118875323284
+intern_0641,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7229094814533508,AWS Cloud Technology Consultant,0.7722091202423202
+intern_0642,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7758269464829631,Google Data Analytics Capstone: Complete a Case Study,0.8594583475171194
+intern_0643,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.42559160603380397,Robotics,0.8291204680766121
+intern_0644,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6889099942795257,Cloud Application Development Foundations,0.8299802046000565
+intern_0645,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7053166580766876,Cybersécurité Google,0.8292089937574805
+intern_0646,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7215896154199394,IBM DevOps and Software Engineering,0.8471293024735
+intern_0647,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.570948143085776,IBM DevOps and Software Engineering,0.9837986333296429
+intern_0648,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7321438027291464,AWS Cloud Technology Consultant,0.7569150972594048
+intern_0649,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.49560486256262715,IBM DevOps and Software Engineering,0.8605326779122734
+intern_0650,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5879217691300787,IBM DevOps and Software Engineering,0.9451852977937334
+intern_0651,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.4786894869662128,"HTML, CSS, and Javascript for Web Developers",0.9356339754223691
+intern_0652,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6792925980707276,AI For Everyone,0.7713710832061456
+intern_0653,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.457041694983459,IBM Data Engineering,0.7407324849506435
+intern_0654,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6195124920704873,AI For Everyone,0.8397709970724262
+intern_0655,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.540792027157846,IBM DevOps and Software Engineering,0.9999999999999998
+intern_0656,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6283982858681895,Robotics,0.7431749665040635
+intern_0657,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5833524114133876,IBM Applied AI,0.8315838192841365
+intern_0658,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.46696912428488896,Google Digital Marketing & E-commerce,0.7925137665096877
+intern_0659,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7231465970946594,Tools for Data Science,0.838128291152038
+intern_0660,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7271647754797146,IBM DevOps and Software Engineering,0.8170890249875509
+intern_0661,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6255891141409448,IBM DevOps and Software Engineering,0.9652030221164349
+intern_0662,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.48948257986481475,TensorFlow: Data and Deployment,0.7945553262993582
+intern_0663,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.595758602064426,Cloud Application Development Foundations,0.8083817306804161
+intern_0664,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.39048837829792865,Machine Learning for Trading,0.873538468968527
+intern_0665,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6126009485272008,Introduction to Front-End Development,0.9124691830801982
+intern_0666,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.668794237044028,Cloud Application Development Foundations,0.8786998768286797
+intern_0667,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5118791252366127,Introduction to Front-End Development,0.7713222297625826
+intern_0668,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7262026243021977,Understanding Basic SQL Syntax,0.9750252421142576
+intern_0669,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5147079545057827,Epidemiology in Public Health Practice,0.8716732802603607
+intern_0670,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6105477920677986,IBM DevOps and Software Engineering,0.9729533573839612
+intern_0671,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6533119156410574,IBM DevOps and Software Engineering,0.9093990872652368
+intern_0672,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6563976024469352,IBM DevOps and Software Engineering,0.8134146706611745
+intern_0673,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.32889208959102556,Getting Started with AI using IBM Watson,0.7418754223974751
+intern_0674,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6109382080573281,Cloud Application Development Foundations,0.892946030204256
+intern_0675,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6526494549716116,Image Processing for Engineering and Science,0.7952759313955321
+intern_0676,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.4316282910097611,"HTML, CSS, and Javascript for Web Developers",0.9842251970281274
+intern_0677,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5908344842954915,IBM DevOps and Software Engineering,0.9350138035573067
+intern_0678,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5520153932104765,IBM DevOps and Software Engineering,0.9998085681202578
+intern_0679,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5994655503218755,IBM & Darden Digital Strategy,0.8641718711668539
+intern_0680,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5644253537641769,Project Management & Other Tools for Career Development,0.9059421899141055
+intern_0681,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.48486762825658747,"HTML, CSS, and Javascript for Web Developers",0.9388325463897684
+intern_0682,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.4154156181181994,"HTML, CSS, and Javascript for Web Developers",0.976263663223068
+intern_0683,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.487370460510552,"HTML, CSS, and Javascript for Web Developers",0.9362334329673843
+intern_0684,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.540792027157846,IBM DevOps and Software Engineering,0.9999999999999998
+intern_0685,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.568298262350715,Using Python to Access Web Data,0.9255379090841486
+intern_0686,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7306387522978213,Google Data Analytics Capstone: Complete a Case Study,0.9207883793507607
+intern_0687,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.540792027157846,IBM DevOps and Software Engineering,0.9999999999999998
+intern_0688,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5965388704370401,Web Applications for Everybody,0.9298217893383535
+intern_0689,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.46549466809602347,Project Management & Other Tools for Career Development,0.8829444071752219
+intern_0690,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5638531602480052,Cloud Application Development Foundations,0.7831658484684184
+intern_0691,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7131565265998745,Microsoft Power BI Data Analyst,0.7880740210162471
+intern_0692,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7313344578758332,Google Data Analytics Capstone: Complete a Case Study,0.9350144615223168
+intern_0693,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.532211916090481,Robotics,0.7924733750756088
+intern_0694,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.540792027157846,IBM DevOps and Software Engineering,0.9999999999999998
+intern_0695,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.49786991581468715,Introduction to Computer Vision and Image Processing,0.8827584179649727
+intern_0696,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7243773047749191,Tools for Data Science,0.8764519194748227
+intern_0697,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.45854899397819987,Project Management & Other Tools for Career Development,0.9442575382905058
+intern_0698,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7069746286298432,Applied Data Science,0.8983645586050361
+intern_0699,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7371738790346483,Go Beyond the Numbers: Translate Data into Insights,0.8907342822192434
+intern_0700,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5370801730828392,Hands-on Introduction to Linux Commands and Shell Scripting,0.7302385003731603
+intern_0701,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7613694350140505,Microsoft Power BI Data Analyst,0.9301206518184519
+intern_0702,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6858677542644543,AI For Everyone,0.7582812637751265
+intern_0703,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.47919452414875213,Hands-on Introduction to Linux Commands and Shell Scripting,0.6680456727445463
+intern_0704,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5280955914273148,IBM DevOps and Software Engineering,0.8384730847748909
+intern_0705,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.4306768161543905,Robotics,0.9444829857351589
+intern_0706,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.772229699476689,Google Data Analytics Capstone: Complete a Case Study,0.8570847537509337
+intern_0707,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6076887659928012,Cloud Application Development Foundations,0.7662760384222346
+intern_0708,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6535671549277071,IBM DevOps and Software Engineering,0.8357674379126315
+intern_0709,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.540792027157846,IBM DevOps and Software Engineering,0.9999999999999998
+intern_0710,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7806177745688884,Microsoft Power BI Data Analyst,0.8347130158438786
+intern_0711,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7273447423956957,Tools for Data Science,0.8502781762488434
+intern_0712,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.687156888892725,Go Beyond the Numbers: Translate Data into Insights,0.880063723471679
+intern_0713,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5520153932104767,IBM DevOps and Software Engineering,0.9998085681202578
+intern_0714,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.565009531590662,IBM Data Science,0.8043054377373284
+intern_0715,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5771412630657139,"HTML, CSS, and Javascript for Web Developers",0.908268758285626
+intern_0716,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5548065362018358,IBM DevOps and Software Engineering,0.9942785175354265
+intern_0717,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.543561489215523,IBM DevOps and Software Engineering,0.919258842397108
+intern_0718,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5112463074770894,"HTML, CSS, and Javascript for Web Developers",0.9522438077429889
+intern_0719,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.540792027157846,IBM DevOps and Software Engineering,0.9999999999999998
+intern_0720,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.36028625990182894,"HTML, CSS, and Javascript for Web Developers",0.9554446736615686
+intern_0721,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5681155394196689,Key Technologies for Business,0.86061105479009
+intern_0722,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5538389903055486,IBM DevOps and Software Engineering,0.9043078314190444
+intern_0723,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6076586952362388,AI For Everyone,0.7517814466382445
+intern_0724,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5363457560336843,IBM DevOps and Software Engineering,0.8469579567723776
+intern_0725,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5520153932104765,IBM DevOps and Software Engineering,0.9998085681202578
+intern_0726,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.4923705611257982,Key Technologies for Business,0.8681260113327963
+intern_0727,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.685617213649968,IBM Data Science,0.7492155252136719
+intern_0728,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.43637629832852026,IBM DevOps and Software Engineering,0.8298238244095657
+intern_0729,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.574491542739131,IBM & Darden Digital Strategy,0.8738149724435308
+intern_0730,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5946820677209659,IBM DevOps and Software Engineering,0.8697154046186298
+intern_0731,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6235287207504413,Digital Marketing,0.7633395231275717
+intern_0732,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5725732206834138,Introduction to Front-End Development,0.8439430721752046
+intern_0733,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7121670087723768,IBM DevOps and Software Engineering,0.7869307711463199
+intern_0734,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6571387485772989,IBM DevOps and Software Engineering,0.7542770961782815
+intern_0735,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.624771271214745,Robotics,0.7455357851041162
+intern_0736,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6356118711831006,IBM DevOps and Software Engineering,0.838801423721093
+intern_0737,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.591721849222795,IBM Data Science,0.8016592684531395
+intern_0738,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7008678372965609,IBM DevOps and Software Engineering,0.8639868221298441
+intern_0739,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6692251652332519,Go Beyond the Numbers: Translate Data into Insights,0.770472229887958
+intern_0740,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6555320939655653,Using Python to Access Web Data,0.8740358074966348
+intern_0741,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5732935286931404,Google Digital Marketing & E-commerce,0.792297756070582
+intern_0742,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5084230108018563,Key Technologies for Business,0.8431925053368056
+intern_0743,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7428502000026197,Go Beyond the Numbers: Translate Data into Insights,0.9000768374530392
+intern_0744,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.4931150104245211,IBM Data Engineering,0.8458827933663357
+intern_0745,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.8112151106134867,Tools for Data Science,0.7883228627333712
+intern_0746,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.41481607593815345,Developing Applications with Google Cloud,0.7653246109607138
+intern_0747,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5194978229071883,IBM DevOps and Software Engineering,0.8028450279087044
+intern_0748,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6128806722597668,IBM DevOps and Software Engineering,0.9498672650747788
+intern_0749,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6227309811562897,Cloud Application Development Foundations,0.8662572032951351
+intern_0750,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7549638104945784,Using Python to Access Web Data,0.8923818979414089
+intern_0751,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5398083640356757,"HTML, CSS, and Javascript for Web Developers",0.92552211752534
+intern_0752,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5969421228221882,IBM DevOps and Software Engineering,0.9889454811991862
+intern_0753,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.549785769919189,Cloud Application Development Foundations,0.8071123955011291
+intern_0754,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6501798063934746,Web Applications for Everybody,0.89759876988164
+intern_0755,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6847084081114442,Applied Data Science,0.740020528255043
+intern_0756,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6134137962201869,IBM DevOps and Software Engineering,0.9600622064674313
+intern_0757,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7255596705045783,Using Python to Access Web Data,0.8781816193480648
+intern_0758,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5982350696046014,IBM DevOps and Software Engineering,0.9331189020912861
+intern_0759,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6696754020208033,IBM DevOps and Software Engineering,0.8931944504103445
+intern_0760,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6277055972225298,Cybersécurité Google,0.9041101473464118
+intern_0761,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5720837175288352,IBM & Darden Digital Strategy,0.8541140299419299
+intern_0762,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6969175289666268,IBM Data Science,0.807067941227829
+intern_0763,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6909550060427174,Go Beyond the Numbers: Translate Data into Insights,0.8447363513339902
+intern_0764,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.3489285557702295,Getting Started with AI using IBM Watson,0.738021191056317
+intern_0765,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.43212375104151335,"HTML, CSS, and Javascript for Web Developers",0.9750919424203344
+intern_0766,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7565192849299602,IBM DevOps and Software Engineering,0.880256629421197
+intern_0767,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6375054379463231,IBM DevOps and Software Engineering,0.8234592087827484
+intern_0768,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6248334589785328,IBM & Darden Digital Strategy,0.8016515852767838
+intern_0769,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5108601822900326,Getting Started with AI using IBM Watson,0.8253195211601958
+intern_0770,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5626544866674889,Machine Learning for Trading,0.7656819655116385
+intern_0771,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.600674414205625,Data Modeling in Power BI,0.9194986434218069
+intern_0772,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6234668438594773,Using Python to Access Web Data,0.9647627699344461
+intern_0773,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6925548619475753,Tools for Data Science,0.7505591946242669
+intern_0774,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5221482973788699,Google Digital Marketing & E-commerce,0.8698926949028952
+intern_0775,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6776076180818792,AI For Everyone,0.772525170308589
+intern_0776,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6348141511337284,IBM DevOps and Software Engineering,0.8249617585935812
+intern_0777,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.540792027157846,IBM DevOps and Software Engineering,0.9999999999999998
+intern_0778,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.654395039607892,Google Digital Marketing & E-commerce,0.8619531975510707
+intern_0779,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7403268519415186,Ciberseguridad de Google,0.6904153300122106
+intern_0780,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7106481271254186,Tools for Data Science,0.9037485355291005
+intern_0781,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5148713463767811,Project Management & Other Tools for Career Development,0.9003059697476435
+intern_0782,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5963732144650651,IBM DevOps and Software Engineering,0.9870795349377252
+intern_0783,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5410155481771547,IBM DevOps and Software Engineering,0.9937715544282882
+intern_0784,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7852072603984612,Tools for Data Science,0.8568645205874285
+intern_0785,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6260959197562801,IBM & Darden Digital Strategy,0.7697985919820686
+intern_0786,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.540792027157846,IBM DevOps and Software Engineering,0.9999999999999998
+intern_0787,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.49218283442142624,Key Technologies for Business,0.8560305447016574
+intern_0788,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6397569469661821,Image Processing for Engineering and Science,0.8232865586165228
+intern_0789,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.482356232196411,"HTML, CSS, and Javascript for Web Developers",0.9356368041467065
+intern_0790,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6528266268914255,Go Beyond the Numbers: Translate Data into Insights,0.9134381368237307
+intern_0791,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6381235966373495,"Modern Robotics:  Mechanics, Planning, and Control",0.9212204381803989
+intern_0792,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6939284161830859,IBM DevOps and Software Engineering,0.9012031837748588
+intern_0793,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.4959633445156243,"HTML, CSS, and Javascript for Web Developers",0.9669504480186447
+intern_0794,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.3862771045955569,Getting Started with AI using IBM Watson,0.8854107966261299
+intern_0795,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5590125248312366,IBM Applied AI,0.8701030892799442
+intern_0796,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.540792027157846,IBM DevOps and Software Engineering,0.9999999999999998
+intern_0797,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.540792027157846,IBM DevOps and Software Engineering,0.9999999999999998
+intern_0798,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5396702688596613,AI For Everyone,0.8604120284141613
+intern_0799,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6329915391675641,Data Modeling in Power BI,0.7543045265442557
+intern_0800,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6336048210284928,Python Project for Data Science,0.9503171940759193
+intern_0801,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.46422949767570837,Introduction to Front-End Development,0.8391080356577947
+intern_0802,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6756833995735549,Cloud Application Development Foundations,0.9294915304687341
+intern_0803,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6592345470675149,IBM Data Science,0.8433863443832685
+intern_0804,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7235902782575747,Tools for Data Science,0.8937194201970351
+intern_0805,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5115857881056108,Project Management & Other Tools for Career Development,0.8827577492040339
+intern_0806,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6018581123534178,IBM DevOps and Software Engineering,0.9797533197447783
+intern_0807,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5061912641367946,Introduction to Front-End Development,0.9197101770159365
+intern_0808,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5061650736641459,"HTML, CSS, and Javascript for Web Developers",0.9535646399394829
+intern_0809,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5989753488334899,IBM DevOps and Software Engineering,0.9878487615654028
+intern_0810,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.47892330960450114,"HTML, CSS, and Javascript for Web Developers",0.9305300332993434
+intern_0811,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5743377746924628,Project Management & Other Tools for Career Development,0.8721850719843781
+intern_0812,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5746222643868799,AI For Everyone,0.8609501306175095
+intern_0813,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6488345099881031,Using Python to Access Web Data,0.7532512631538647
+intern_0814,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6946076802857817,IBM DevOps and Software Engineering,0.8798756824977132
+intern_0815,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5758713387266952,IBM DevOps and Software Engineering,0.9302158373574964
+intern_0816,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.565520693873429,AI For Everyone,0.871134575220801
+intern_0817,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6720777776017172,Meta Marketing Analytics,0.7765662209056894
+intern_0818,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5347947374920926,"HTML, CSS, and Javascript for Web Developers",0.9258299890775075
+intern_0819,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5040502176785961,Google Digital Marketing & E-commerce,0.7923206246340981
+intern_0820,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5695802959861941,AI For Everyone,0.8232740327485105
+intern_0821,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.54827464340254,Using Python to Access Web Data,0.9186106279258832
+intern_0822,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5434718907226025,"HTML, CSS, and Javascript for Web Developers",0.9220882022456411
+intern_0823,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.44634440338695724,TensorFlow: Data and Deployment,0.815834031682149
+intern_0824,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.542266923373088,IBM DevOps and Software Engineering,0.9166357598909303
+intern_0825,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.560157230430785,AI For Everyone,0.7273642099876635
+intern_0826,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6174678935304507,IBM DevOps and Software Engineering,0.9534792976362919
+intern_0827,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.4870584503636148,Google Digital Marketing & E-commerce,0.8467299973298732
+intern_0828,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6744762453562062,Cloud Application Development Foundations,0.9009895720764182
+intern_0829,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.729001865198857,IBM DevOps and Software Engineering,0.8514063428434853
+intern_0830,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.423567523787757,Key Technologies for Business,0.7997456625973327
+intern_0831,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.4343425760081523,IBM DevOps and Software Engineering,0.8032109162417969
+intern_0832,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7218071442244727,Applied Data Science,0.8767366979725087
+intern_0833,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6230358213806598,Project Management & Other Tools for Career Development,0.8353037405367159
+intern_0834,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6814178742535013,Using Python to Access Web Data,0.8605329203971294
+intern_0835,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5395055656064042,Robotics,0.8799706555236413
+intern_0836,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.540792027157846,IBM DevOps and Software Engineering,0.9999999999999998
+intern_0837,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.4535381662344056,Google IT Support,0.8197627262718667
+intern_0838,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.4331494909534892,"HTML, CSS, and Javascript for Web Developers",0.9584841290680448
+intern_0839,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5866652576354746,Robotics,0.6955751603266116
+intern_0840,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6433621149692066,IBM DevOps and Software Engineering,0.7754273123482128
+intern_0841,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.565690894190452,Image Processing for Engineering and Science,0.7932110627296716
+intern_0842,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5741635025506121,Google Digital Marketing & E-commerce,0.8622821324276458
+intern_0843,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7718096323883548,Microsoft Power BI Data Analyst,0.7605403766167265
+intern_0844,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5520153932104765,IBM DevOps and Software Engineering,0.9998085681202578
+intern_0845,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7655917377634586,Tools for Data Science,0.8672311564234606
+intern_0846,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.47933111567570597,Cloud Application Development Foundations,0.8879502617228385
+intern_0847,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7138761054838891,Tools for Data Science,0.8891702960738015
+intern_0848,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6347022949236266,IBM Data Science,0.8450485986440692
+intern_0849,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6509267496313603,Project Management & Other Tools for Career Development,0.8117345139922412
+intern_0850,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6152433397836239,Digital Manufacturing & Design Technology,0.7888658232605197
+intern_0851,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7445937543354408,Google Data Analytics,0.8676044255556074
+intern_0852,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.4770482138692625,"HTML, CSS, and Javascript for Web Developers",0.8968985379831166
+intern_0853,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.484924447487232,IBM DevOps and Software Engineering,0.7890212073062736
+intern_0854,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.595932698631277,IBM & Darden Digital Strategy,0.7794872841802903
+intern_0855,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6385476188343968,IBM DevOps and Software Engineering,0.755869368766122
+intern_0856,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6533501508590345,IBM DevOps and Software Engineering,0.8631954003382183
+intern_0857,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7002026463344433,IBM DevOps and Software Engineering,0.8751464543479722
+intern_0858,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6042261778322677,IBM DevOps and Software Engineering,0.9846793962957084
+intern_0859,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5270386122841326,"HTML, CSS, and Javascript for Web Developers",0.9429128061562222
+intern_0860,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.561232080309374,IBM DevOps and Software Engineering,0.9768069001708816
+intern_0861,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7397058249736823,AWS Cloud Technology Consultant,0.8152583540483042
+intern_0862,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.3360931484781612,Structuring Machine Learning Projects,0.8769757902367897
+intern_0863,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6401552479414853,IBM DevOps and Software Engineering,0.8251000678281198
+intern_0864,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6248511315840131,IBM DevOps and Software Engineering,0.9432446166104183
+intern_0865,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5520153932104765,IBM DevOps and Software Engineering,0.9998085681202578
+intern_0866,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5631688567180649,Cloud Application Development Foundations,0.9070363157815867
+intern_0867,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7197415439143404,Foundations of Cybersecurity,0.9087147740332988
+intern_0868,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.38408038765552055,Getting Started with AI using IBM Watson,0.7267721393537326
+intern_0869,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6620041459669375,Cloud Application Development Foundations,0.8388887913021255
+intern_0870,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7497340401804045,IBM DevOps and Software Engineering,0.800205115378954
+intern_0871,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5537118713386824,Go Beyond the Numbers: Translate Data into Insights,0.9034526135417557
+intern_0872,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6152898705001739,IBM DevOps and Software Engineering,0.9669346500451845
+intern_0873,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.4777648755359975,Cloud Application Development Foundations,0.9118179224407092
+intern_0874,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7790048209285267,Fundamentos de la ciberseguridad,0.9263464814470315
+intern_0875,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.4776811654341744,"HTML, CSS, and Javascript for Web Developers",0.9456097334150456
+intern_0876,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6031143145122349,IBM DevOps and Software Engineering,0.9853931178290573
+intern_0877,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6912597923700309,IBM DevOps and Software Engineering,0.8561716029622444
+intern_0878,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5375589839283117,"HTML, CSS, and Javascript for Web Developers",0.9152501180562035
+intern_0879,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.540792027157846,IBM DevOps and Software Engineering,0.9999999999999998
+intern_0880,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7286733076820963,Cybersécurité Google,0.8649966680660243
+intern_0881,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7086893570271524,Using Python to Access Web Data,0.7594486953284937
+intern_0882,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6775046594456489,IBM DevOps and Software Engineering,0.9656570104898371
+intern_0883,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.4969124388750104,IBM DevOps and Software Engineering,0.9409994074336631
+intern_0884,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6586415638428064,Cloud Application Development Foundations,0.9361482732374226
+intern_0885,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5302372826292555,Project Management & Other Tools for Career Development,0.9164288618799428
+intern_0886,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5520153932104765,IBM DevOps and Software Engineering,0.9998085681202578
+intern_0887,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6463887720831731,Cloud Application Development Foundations,0.7161371343870356
+intern_0888,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.3232502625870286,"HTML, CSS, and Javascript for Web Developers",0.8580583794571626
+intern_0889,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7915045371014329,Using Python to Access Web Data,0.8699739529481328
+intern_0890,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6336478703966563,Data Modeling in Power BI,0.7618519027263846
+intern_0891,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.4760081352042219,Java FullStack Developer,0.942129095065042
+intern_0892,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7532156611458556,Foundations of Cybersecurity,0.8702704542696038
+intern_0893,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.3042407552636601,Robotics,0.8071172602947613
+intern_0894,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.630687564259211,IBM DevOps and Software Engineering,0.9362355438912242
+intern_0895,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.687326914380142,Google Data Analytics Capstone: Complete a Case Study,0.9186429139427935
+intern_0896,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6649308409005543,Web Applications for Everybody,0.8966392251072247
+intern_0897,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5880316064490503,Cloud Application Development Foundations,0.8023723700253079
+intern_0898,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5657720194981215,Cloud Application Development Foundations,0.9725236782060384
+intern_0899,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6124853481526981,IBM DevOps and Software Engineering,0.9743573214028209
+intern_0900,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.595795610477974,IBM DevOps and Software Engineering,0.8027181467154563
+intern_0901,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6115762459256595,IBM DevOps and Software Engineering,0.9793188936889758
+intern_0902,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.47255415650257776,IBM & Darden Digital Strategy,0.8328354223893444
+intern_0903,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6923015586050942,Data Modeling in Power BI,0.8438273799393128
+intern_0904,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7149427725418389,IBM DevOps and Software Engineering,0.9115083922209591
+intern_0905,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5373113760880006,"HTML, CSS, and Javascript for Web Developers",0.9280676351490154
+intern_0906,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6424475182026567,IBM DevOps and Software Engineering,0.7534022690992197
+intern_0907,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5291427168190973,IBM DevOps and Software Engineering,0.9398007806136931
+intern_0908,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7017271984499656,IBM DevOps and Software Engineering,0.9433306498310666
+intern_0909,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7598521626476925,Tools for Data Science,0.880482203324622
+intern_0910,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7087318680618179,Fundamentos de la ciberseguridad,0.8174196940015505
+intern_0911,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.690342793731981,AWS Cloud Technology Consultant,0.7603679209694789
+intern_0912,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6026659654118535,IBM DevOps and Software Engineering,0.9847867876667794
+intern_0913,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7543473887982697,Understanding Basic SQL Syntax,0.9207766603976115
+intern_0914,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.57210399207296,Using Python to Access Web Data,0.9293172510662633
+intern_0915,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7696923703589322,Foundations of Cybersecurity,0.8918673142851666
+intern_0916,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5800485589190544,IBM Applied AI,0.8366563838964839
+intern_0917,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5086197968508056,IBM DevOps and Software Engineering,0.917881333122383
+intern_0918,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6792875884837699,Tools for Data Science,0.922138252608726
+intern_0919,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6225487528226528,IBM DevOps and Software Engineering,0.8311097800307047
+intern_0920,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.625841370561932,Cloud Application Development Foundations,0.7896122947192077
+intern_0921,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.8138996950886044,Tools for Data Science,0.8269355599922347
+intern_0922,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.513440585757829,AI For Everyone,0.891715292901136
+intern_0923,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5299337538171427,Introduction to Front-End Development,0.9241115060701802
+intern_0924,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.540792027157846,IBM DevOps and Software Engineering,0.9999999999999998
+intern_0925,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.4788672901785436,Introduction to Front-End Development,0.8981176124277758
+intern_0926,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5164325347837572,Image Processing for Engineering and Science,0.945834646742402
+intern_0927,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5757693292494531,Introduction to Front-End Development,0.9329626325110519
+intern_0928,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.3626448182089236,Bachelor of Science in Computer Science,0.9628544431649332
+intern_0929,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5729975286461273,Cloud Application Development Foundations,0.8835429471381624
+intern_0930,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7130625386570429,Applied Data Science,0.7863165868689034
+intern_0931,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.3681619624523398,Bachelor of Science in Computer Science,0.9684658297723897
+intern_0932,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6497841479109648,Image Processing for Engineering and Science,0.8444122144395251
+intern_0933,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.725615585364939,Go Beyond the Numbers: Translate Data into Insights,0.8726795001626398
+intern_0934,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6112811831589635,Cloud Application Development Foundations,0.8099240334606338
+intern_0935,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7499543432773236,IBM DevOps and Software Engineering,0.8979831313856802
+intern_0936,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.4645059739513166,Cloud Application Development Foundations,0.8977128681383083
+intern_0937,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6756833995735549,Cloud Application Development Foundations,0.9294915304687341
+intern_0938,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5318694810516912,IBM DevOps and Software Engineering,0.981337211778725
+intern_0939,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6658661399203512,Go Beyond the Numbers: Translate Data into Insights,0.9590869309397835
+intern_0940,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6388456633758345,Cloud Application Development Foundations,0.9149145443953878
+intern_0941,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.40180901210722136,Robotics,0.9271742094824629
+intern_0942,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.49512101416281046,"HTML, CSS, and Javascript for Web Developers",0.937701999378929
+intern_0943,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6319617323509988,AWS Cloud Technology Consultant,0.756418495860033
+intern_0944,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5561120164200096,Machine Learning for Trading,0.800225118954453
+intern_0945,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7458998787895709,Foundations of Cybersecurity,0.8568625657205786
+intern_0946,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.47557447720920715,Introduction to Artificial Intelligence (AI),0.8721833847248794
+intern_0947,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7626430443341667,Google Data Analytics Capstone: Complete a Case Study,0.9402342619595812
+intern_0948,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6581799493460375,AWS Cloud Technology Consultant,0.7456058535061216
+intern_0949,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5435249238784909,IBM DevOps and Software Engineering,0.8701774616086138
+intern_0950,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7108452603667517,Cloud Application Development Foundations,0.8542883011244294
+intern_0951,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5086613603074434,Introduction to Front-End Development,0.9305070194294874
+intern_0952,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5317995173627342,IBM DevOps and Software Engineering,0.9552558464295099
+intern_0953,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.540792027157846,IBM DevOps and Software Engineering,0.9999999999999998
+intern_0954,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5384185644775085,Introduction to Front-End Development,0.8136741983404536
+intern_0955,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6293880448399798,Image Processing for Engineering and Science,0.7613204813834854
+intern_0956,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7096626403714212,IBM DevOps and Software Engineering,0.7905284325497662
+intern_0957,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.749058161758814,Microsoft Power BI Data Analyst,0.9011297712774208
+intern_0958,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6098293788531299,Key Technologies for Business,0.817107091992943
+intern_0959,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.4583630035915188,Key Technologies for Business,0.91023434592754
+intern_0960,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5510109738295395,IBM DevOps and Software Engineering,0.8506299551268438
+intern_0961,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5322476402874394,IBM Applied AI,0.871271970803774
+intern_0962,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.4715325824167706,IBM DevOps and Software Engineering,0.8768344095142561
+intern_0963,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.540792027157846,IBM DevOps and Software Engineering,0.9999999999999998
+intern_0964,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7500841427852751,IBM Data Analytics with Excel and R,0.8571253466132931
+intern_0965,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5135527690438192,Introduction to Front-End Development,0.9150212745552032
+intern_0966,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6118996696541777,IBM & Darden Digital Strategy,0.787202738269255
+intern_0967,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.581235325671689,"HTML, CSS, and Javascript for Web Developers",0.8986944057736046
+intern_0968,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7298451677141093,Google Data Analytics Capstone: Complete a Case Study,0.8970457907598467
+intern_0969,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6532246501781146,Getting started with Google Workspace,0.8736147199666846
+intern_0970,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.727091814716231,Cloud Application Development Foundations,0.8798593099691144
+intern_0971,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5958079324600817,IBM DevOps and Software Engineering,0.9743116448359389
+intern_0972,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.4036204402483466,"HTML, CSS, and Javascript for Web Developers",0.9664026867668699
+intern_0973,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7207803201575934,Applied Data Science,0.8493329791155952
+intern_0974,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5562957565447153,Key Technologies for Business,0.7466631640364325
+intern_0975,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6782923369563701,IBM Data Science,0.7808314732481332
+intern_0976,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6505977018374722,Data Modeling in Power BI,0.9119875895545174
+intern_0977,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5520153932104765,IBM DevOps and Software Engineering,0.9998085681202578
+intern_0978,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.540792027157846,IBM DevOps and Software Engineering,0.9999999999999998
+intern_0979,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6384046754352365,Image Processing for Engineering and Science,0.8189814478175791
+intern_0980,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.4973218710952123,Google Digital Marketing & E-commerce,0.8145895467109125
+intern_0981,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6459890065492839,"Modern Robotics:  Mechanics, Planning, and Control",0.9281632249538584
+intern_0982,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6276703841376211,Google Data Analytics Capstone: Complete a Case Study,0.7853658068254095
+intern_0983,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.570706590726713,IBM DevOps and Software Engineering,0.8529033572610922
+intern_0984,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6118929650940056,Cloud Application Development Foundations,0.9303489628141346
+intern_0985,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5583325639584287,Introduction to Programming with MATLAB,0.9490407775216628
+intern_0986,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5667450261662026,IBM & Darden Digital Strategy,0.7988771782706734
+intern_0987,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5601834719833947,IBM DevOps and Software Engineering,0.9082510453370273
+intern_0988,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5532962677673883,IBM DevOps and Software Engineering,0.9911930566180267
+intern_0989,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5628057908730346,IBM & Darden Digital Strategy,0.7944819872379003
+intern_0990,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6031595783199348,IBM Data Science,0.7923839889959818
+intern_0991,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7600743215990607,Go Beyond the Numbers: Translate Data into Insights,0.7851781079045793
+intern_0992,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5480184561081376,IBM DevOps and Software Engineering,0.9653885983037354
+intern_0993,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.613568966085693,IBM DevOps and Software Engineering,0.9005590388439754
+intern_0994,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5357143978721439,Cloud Application Development Foundations,0.9197110241972525
+intern_0995,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5520153932104765,IBM DevOps and Software Engineering,0.9998085681202578
+intern_0996,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.550565538787703,IBM DevOps and Software Engineering,0.9240093436802962
+intern_0997,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.46941495625827967,"HTML, CSS, and Javascript for Web Developers",0.9659459183469302
+intern_0998,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.569092928670006,Cloud Application Development Foundations,0.9591352686450066
+intern_0999,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.696347871506243,Using Python to Access Web Data,0.8244184654219818
+intern_1000,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6948325043543042,Using Python to Access Web Data,0.8486949271512566
+intern_1001,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6768148130073913,Google Data Analytics Capstone: Complete a Case Study,0.8461071431880226
+intern_1002,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6969277530940235,Applied Data Science,0.9002696899186492
+intern_1003,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.4998887299520413,Google Digital Marketing & E-commerce,0.8458305846710987
+intern_1004,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6714772599695541,Google Data Analytics Capstone: Complete a Case Study,0.8392070862489643
+intern_1005,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5907661687458412,Cloud Application Development Foundations,0.8307829287960758
+intern_1006,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6045333581994329,Project Management & Other Tools for Career Development,0.7751252422062004
+intern_1007,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7734718934374658,Using Python to Access Web Data,0.8889921051296903
+intern_1008,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6330131191650915,IBM DevOps and Software Engineering,0.9420042179990611
+intern_1009,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7891464380243655,Microsoft Power BI Data Analyst,0.8420625172806545
+intern_1010,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5610571952434752,IBM DevOps and Software Engineering,0.7840281464952874
+intern_1011,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7022693467757072,Using Python to Access Web Data,0.8826350225132201
+intern_1012,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6882993274445054,Go Beyond the Numbers: Translate Data into Insights,0.9165702485604122
+intern_1013,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5783677591517752,IBM DevOps and Software Engineering,0.9486952456630152
+intern_1014,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5867342248979839,IBM DevOps and Software Engineering,0.9934849506071637
+intern_1015,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6426207467239771,Using Python to Access Web Data,0.9062532590565635
+intern_1016,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.47370663837983035,"HTML, CSS, and Javascript for Web Developers",0.9792610950586876
+intern_1017,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6496998087393122,Image Processing for Engineering and Science,0.7702222479053621
+intern_1018,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5663363772947558,IBM DevOps and Software Engineering,0.9818264134330393
+intern_1019,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6396583448326718,Using Python to Access Web Data,0.9489199102266681
+intern_1020,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.625395312991994,IBM DevOps and Software Engineering,0.9605868198413982
+intern_1021,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6202374480394635,AI For Everyone,0.7847860677713927
+intern_1022,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5831731112434335,Cloud Application Development Foundations,0.9524963509183431
+intern_1023,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.48165413087824427,"HTML, CSS, and Javascript for Web Developers",0.9590608561798221
+intern_1024,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6376300933894741,Image Processing for Engineering and Science,0.7635615958257749
+intern_1025,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6262908149130081,IBM & Darden Digital Strategy,0.8028591858932187
+intern_1026,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6121724633143195,IBM DevOps and Software Engineering,0.8952153786524613
+intern_1027,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5520153932104765,IBM DevOps and Software Engineering,0.9998085681202578
+intern_1028,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6185841695670828,IBM DevOps and Software Engineering,0.8874786399498504
+intern_1029,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.38817883626389044,Getting Started with AI using IBM Watson,0.8916977318147059
+intern_1030,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6430459866345763,IBM DevOps and Software Engineering,0.8931155273542072
+intern_1031,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5704671075178666,IBM DevOps and Software Engineering,0.7506101459566596
+intern_1032,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6527253424014149,IBM Data Science,0.803198685853668
+intern_1033,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.769783314269818,Foundations of Cybersecurity,0.8691042539995173
+intern_1034,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5982784230492849,Cloud Application Development Foundations,0.9242294921000654
+intern_1035,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.48436448748898986,Project Management & Other Tools for Career Development,0.8648115290782781
+intern_1036,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6284627989113702,Data Modeling in Power BI,0.8567569552474338
+intern_1037,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6269556609346236,IBM DevOps and Software Engineering,0.9609775996764736
+intern_1038,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5146725497888174,IBM DevOps and Software Engineering,0.8613195626879205
+intern_1039,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7469448655804205,Using Python to Access Web Data,0.8762823230542502
+intern_1040,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5102211567411544,Key Technologies for Business,0.8446803135049287
+intern_1041,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6397379243522889,IBM DevOps and Software Engineering,0.941140240282704
+intern_1042,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.44799103496636167,"HTML, CSS, and Javascript for Web Developers",0.9093453753579107
+intern_1043,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.780866213431016,Tools for Data Science,0.8333662285586327
+intern_1044,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.653121449758082,Cloud Application Development Foundations,0.8232647305690427
+intern_1045,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6099473440971959,IBM & Darden Digital Strategy,0.8068497944633402
+intern_1046,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7034935227615335,Foundations of Cybersecurity,0.6951251200445796
+intern_1047,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7251354683311417,Microsoft Power BI Data Analyst,0.8005581023790772
+intern_1048,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.691389798010599,Google Data Analytics Capstone: Complete a Case Study,0.8326918546990194
+intern_1049,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6061598610601189,IBM & Darden Digital Strategy,0.7661315624546475
+intern_1050,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.4628327456872826,Suporte em TI do Google,0.8266941993390622
+intern_1051,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5807676608206916,Using Python to Access Web Data,0.9497543667420213
+intern_1052,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7331032645496431,Data Modeling in Power BI,0.8052496909464799
+intern_1053,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7168003394944522,Tools for Data Science,0.845569079725548
+intern_1054,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6917111142040058,Using Python to Access Web Data,0.9358061370228254
+intern_1055,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6603707561043429,Using Python to Access Web Data,0.9259837915768364
+intern_1056,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.4196163912013907,Robotics,0.8353556584356727
+intern_1057,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.540792027157846,IBM DevOps and Software Engineering,0.9999999999999998
+intern_1058,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.3406692633608626,Key Technologies for Business,0.941689620416243
+intern_1059,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6324731427326358,IBM DevOps and Software Engineering,0.9306919158273038
+intern_1060,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.4601981393133517,"HTML, CSS, and Javascript for Web Developers",0.9654252892857563
+intern_1061,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5518577886807382,IBM DevOps and Software Engineering,0.8446105142389524
+intern_1062,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7229773713252482,Go Beyond the Numbers: Translate Data into Insights,0.8780363557342007
+intern_1063,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7075407272219449,IBM DevOps and Software Engineering,0.8100105346875286
+intern_1064,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5795721158281049,IBM DevOps and Software Engineering,0.9793855441141774
+intern_1065,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6419650783091048,"Modern Robotics:  Mechanics, Planning, and Control",0.9417051501586575
+intern_1066,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6336048210284928,Python Project for Data Science,0.9503171940759193
+intern_1067,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5415188441960846,AI For Everyone,0.8626498610885427
+intern_1068,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.27735732352406484,Structuring Machine Learning Projects,0.9111453117270609
+intern_1069,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.49011357804344297,"HTML, CSS, and Javascript for Web Developers",0.9596921648352319
+intern_1070,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.3775375718988294,IBM DevOps and Software Engineering,0.8013264452685245
+intern_1071,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6457981247755549,Go Beyond the Numbers: Translate Data into Insights,0.9312074647567955
+intern_1072,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.540792027157846,IBM DevOps and Software Engineering,0.9999999999999998
+intern_1073,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6524145639864255,Using Python to Access Web Data,0.7964086128205393
+intern_1074,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6684640878058234,Google Data Analytics Capstone: Complete a Case Study,0.8436655859026367
+intern_1075,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7047717435385109,IBM DevOps and Software Engineering,0.9510281441496452
+intern_1076,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6049305433564709,AWS Cloud Technology Consultant,0.8000782115365069
+intern_1077,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5205256577461042,"HTML, CSS, and Javascript for Web Developers",0.9137217239662017
+intern_1078,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6836256557963946,IBM Data Science,0.8221831408801399
+intern_1079,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5754385658470333,Project Management & Other Tools for Career Development,0.8511110948525943
+intern_1080,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6131159902377739,Key Technologies for Business,0.7800638817215699
+intern_1081,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6372306874946341,Go Beyond the Numbers: Translate Data into Insights,0.9617262473371103
+intern_1082,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5255122126631602,"HTML, CSS, and Javascript for Web Developers",0.9374795732617615
+intern_1083,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.3301220905055376,"HTML, CSS, and Javascript for Web Developers",0.9707079468483335
+intern_1084,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5478232646534432,IBM DevOps and Software Engineering,0.8960524124736439
+intern_1085,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6086996191656131,IBM DevOps and Software Engineering,0.7978957934318028
+intern_1086,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6714441567972872,Google Digital Marketing & E-commerce,0.8433394280217028
+intern_1087,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7472389583279049,Go Beyond the Numbers: Translate Data into Insights,0.8478908030941835
+intern_1088,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7155563079075318,Google Data Analytics Capstone: Complete a Case Study,0.9573170932317596
+intern_1089,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5486197852235603,IBM DevOps and Software Engineering,0.9977727044433844
+intern_1090,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7224909766022048,Google Data Analytics Capstone: Complete a Case Study,0.9249532448507845
+intern_1091,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.4341835909907832,"HTML, CSS, and Javascript for Web Developers",0.9545833694343692
+intern_1092,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5520153932104765,IBM DevOps and Software Engineering,0.9998085681202578
+intern_1093,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6368102369244671,IBM & Darden Digital Strategy,0.7927281267384446
+intern_1094,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5988039656340678,Project Management & Other Tools for Career Development,0.8386127923018829
+intern_1095,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7971830940564126,Tools for Data Science,0.8516470936333124
+intern_1096,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.780664895659854,Analyze Data to Answer Questions,0.8846859235470389
+intern_1097,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7644777983686597,Google Data Analytics Capstone: Complete a Case Study,0.8648366433042328
+intern_1098,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5520153932104765,IBM DevOps and Software Engineering,0.9998085681202578
+intern_1099,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7683415585184732,IBM DevOps and Software Engineering,0.8481073935734539
+intern_1100,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7944754959029784,Tools for Data Science,0.8277540433431528
+intern_1101,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.436626867320647,Introduction to Front-End Development,0.7907223673396344
+intern_1102,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6127588829190032,Suporte em TI do Google,0.7790059149433052
+intern_1103,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6367373918015458,IBM DevOps and Software Engineering,0.9263354726458729
+intern_1104,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.42716889165758065,Key Technologies for Business,0.9189964727259473
+intern_1105,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.45144242300984094,"HTML, CSS, and Javascript for Web Developers",0.9486914567678433
+intern_1106,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7930085655680151,Foundations of Cybersecurity,0.8140733557000813
+intern_1107,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6791539268104283,Robotics,0.7800913307438565
+intern_1108,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.29194173225600895,Machine Learning for Trading,0.9463785527326245
+intern_1109,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7869231410993276,Tools for Data Science,0.873303676102533
+intern_1110,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7648866848607068,Tools for Data Science,0.7402867750048101
+intern_1111,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.4999911634396073,IBM DevOps and Software Engineering,0.8786402746061724
+intern_1112,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5519337805418278,Image Processing for Engineering and Science,0.8289487292832574
+intern_1113,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6016774533550042,IBM DevOps and Software Engineering,0.9771405266109423
+intern_1114,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.43797773398179074,"HTML, CSS, and Javascript for Web Developers",0.970922540328131
+intern_1115,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6932809326370674,IBM DevOps and Software Engineering,0.8632030096702223
+intern_1116,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7594089127281709,Microsoft Power BI Data Analyst,0.9316697390501621
+intern_1117,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7387346958913644,Tools for Data Science,0.8526278549546519
+intern_1118,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6701373830256262,IBM DevOps and Software Engineering,0.8783428307719487
+intern_1119,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5555860694471719,"HTML, CSS, and Javascript for Web Developers",0.8979875990457501
+intern_1120,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7179566030840637,IBM DevOps and Software Engineering,0.8097641184218569
+intern_1121,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.46875846834976953,Google Digital Marketing & E-commerce,0.6704739225437277
+intern_1122,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5627262531330498,IBM DevOps and Software Engineering,0.9818442056254059
+intern_1123,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6261600446976574,IBM DevOps and Software Engineering,0.9644894726838169
+intern_1124,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6372306874946341,Go Beyond the Numbers: Translate Data into Insights,0.9617262473371103
+intern_1125,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6446035534517156,IBM DevOps and Software Engineering,0.7678713623210579
+intern_1126,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5430340442902072,IBM DevOps and Software Engineering,0.9010830099105522
+intern_1127,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.565936272692745,Project Management & Other Tools for Career Development,0.9052287916850675
+intern_1128,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5124685607422318,"HTML, CSS, and Javascript for Web Developers",0.9509405848918159
+intern_1129,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6212125455080661,IBM DevOps and Software Engineering,0.7943101998816434
+intern_1130,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7208066542593495,Using Python to Access Web Data,0.8802389761184473
+intern_1131,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.7262177920062381,Tools for Data Science,0.8866525374715802
+intern_1132,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6596080905925499,IBM Data Science,0.8580843175849224
+intern_1133,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5097597753526246,IBM & Darden Digital Strategy,0.6829472069882203
+intern_1134,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.6974800917961681,Meta Marketing Analytics,0.764195042532888
+intern_1135,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5905418956130525,Introduction to Programming with MATLAB,0.9388866569552022
+intern_1136,1,"Cluster 1 (c, r, data science, machine learning, scala)",0.5622427244269768,"HTML, CSS, and Javascript for Web Developers",0.8586664704424799
